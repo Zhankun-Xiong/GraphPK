@@ -1,0 +1,11 @@
+circ-disease	0
+circ-mir	1
+drug-disease	2
+drug-protein	3
+lnc-disease	4
+lnc-mir	5
+lnc-protein	6
+mir-disease	7
+mir-drug	8
+mir-protein	9
+protein-protein	10

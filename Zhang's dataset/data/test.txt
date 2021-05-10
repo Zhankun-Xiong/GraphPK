@@ -1,0 +1,3482 @@
+db00997	dis:multiple myeloma	drug-disease
+db00490	dis:catalepsy	drug-disease
+db00495	dis:drug-related side effects and adverse reactions	drug-disease
+db00811	dis:cough	drug-disease
+db00712	dis:glomerulonephritis membranous	drug-disease
+db00182	dis:fever	drug-disease
+db00635	dis:asthma	drug-disease
+db01388	dis:ventricular fibrillation	drug-disease
+db00564	dis:psychomotor agitation	drug-disease
+db01211	dis:hypertension	drug-disease
+db00215	dis:galactorrhea	drug-disease
+db00715	dis:nocturnal enuresis	drug-disease
+db01026	dis:nausea	drug-disease
+db00694	dis:anemia aplastic	drug-disease
+db00907	dis:leukoencephalopathies	drug-disease
+db00184	dis:cardiomyopathies	drug-disease
+db00468	dis:hearing loss sensorineural	drug-disease
+db01221	dis:hallucinations	drug-disease
+db01183	dis:cholelithiasis	drug-disease
+db00921	dis:atrial fibrillation	drug-disease
+db00412	dis:neoplasms experimental	drug-disease
+db00477	dis:peripheral nervous system diseases	drug-disease
+db00482	dis:renal insufficiency	drug-disease
+db00201	dis:hypothermia	drug-disease
+db01645	dis:osteoporosis	drug-disease
+db00968	dis:hyponatremia	drug-disease
+db00783	dis:neoplasms	drug-disease
+db00637	dis:parkinson disease	drug-disease
+db00829	dis:hallucinations	drug-disease
+db00788	dis:chills	drug-disease
+db00255	dis:carcinoma squamous cell	drug-disease
+db01204	dis:demyelinating diseases	drug-disease
+db00968	dis:brain edema	drug-disease
+db00252	dis:cleft palate	drug-disease
+db01174	dis:neural tube defects	drug-disease
+db00921	dis:nausea	drug-disease
+db01435	dis:kidney papillary necrosis	drug-disease
+db00313	dis:prenatal injuries	drug-disease
+db01248	dis:hepatic encephalopathy	drug-disease
+db00795	dis:leukopenia	drug-disease
+db00668	dis:urinary retention	drug-disease
+db00563	dis:bradycardia	drug-disease
+db00819	dis:anorexia	drug-disease
+db00688	dis:diarrhea	drug-disease
+db01234	dis:pulmonary embolism	drug-disease
+db00281	dis:vomiting	drug-disease
+db00704	dis:psychoses substance-induced	drug-disease
+db01242	dis:lethargy	drug-disease
+db00458	dis:hypokinesia	drug-disease
+db00882	dis:ovarian neoplasms	drug-disease
+db00688	dis:signs and symptoms digestive	drug-disease
+db00908	dis:coronary stenosis	drug-disease
+db00987	dis:rhabdomyosarcoma	drug-disease
+db00877	dis:muscular diseases	drug-disease
+db00468	dis:tachycardia	drug-disease
+db01136	dis:myocardial ischemia	drug-disease
+db00586	dis:stroke	drug-disease
+db00668	dis:cardiovascular diseases	drug-disease
+db00264	dis:drug hypersensitivity	drug-disease
+db00428	dis:liver diseases	drug-disease
+db00252	dis:catalepsy	drug-disease
+db00860	dis:polyarteritis nodosa	drug-disease
+db01234	dis:insulin resistance	drug-disease
+db00343	dis:coronary artery disease	drug-disease
+db00440	dis:delirium	drug-disease
+db00328	dis:angina pectoris	drug-disease
+db00468	dis:hypotension orthostatic	drug-disease
+db00563	dis:vision disorders	drug-disease
+db00470	dis:bradycardia	drug-disease
+db00544	dis:nervous system diseases	drug-disease
+db00863	dis:peptic ulcer	drug-disease
+db00570	dis:angina pectoris	drug-disease
+db00758	dis:brain ischemia	drug-disease
+db01221	dis:learning disorders	drug-disease
+db00514	dis:speech disorders	drug-disease
+db03128	dis:pain	drug-disease
+db00755	dis:craniofacial abnormalities	drug-disease
+db00398	dis:neoplasm metastasis	drug-disease
+db00321	dis:paresthesia	drug-disease
+db00328	dis:central nervous system diseases	drug-disease
+db00715	dis:long qt syndrome	drug-disease
+db00182	dis:dyskinesias	drug-disease
+db01183	dis:catalepsy	drug-disease
+db01009	dis:drug eruptions	drug-disease
+db00921	dis:vomiting	drug-disease
+db01212	dis:weight loss	drug-disease
+db00773	dis:alopecia	drug-disease
+db01184	dis:migraine disorders	drug-disease
+db00934	dis:seizures	drug-disease
+db00316	dis:substance withdrawal syndrome	drug-disease
+db00934	dis:long qt syndrome	drug-disease
+db00584	dis:erythema	drug-disease
+db00451	dis:chemical and drug induced liver injury	drug-disease
+db01115	dis:hyperlipidemias	drug-disease
+db00564	dis:neural tube defects	drug-disease
+db01337	dis:seizures	drug-disease
+db01177	dis:pseudotumor cerebri	drug-disease
+db01050	dis:heart septal defects ventricular	drug-disease
+db00361	dis:nervous system diseases	drug-disease
+db01114	dis:hypertension	drug-disease
+db00696	dis:optic atrophy	drug-disease
+db00477	dis:fever	drug-disease
+db00715	dis:dystonia	drug-disease
+db00624	dis:adenocarcinoma	drug-disease
+db00571	dis:diplopia	drug-disease
+db00927	dis:abdominal pain	drug-disease
+db01115	dis:hypokalemia	drug-disease
+db01396	dis:atrial fibrillation	drug-disease
+db00635	dis:vision disorders	drug-disease
+db00810	dis:dystonic disorders	drug-disease
+db00672	dis:hypertension	drug-disease
+db00860	dis:recurrence	drug-disease
+db01182	dis:ventricular premature complexes	drug-disease
+db00584	dis:postoperative complications	drug-disease
+db00656	dis:coma	drug-disease
+db01234	dis:dyspepsia	drug-disease
+db01118	dis:ataxia	drug-disease
+db01103	dis:hepatitis	drug-disease
+db00934	dis:arrhythmias cardiac	drug-disease
+db01221	dis:fatigue	drug-disease
+db01026	dis:lipidoses	drug-disease
+db00571	dis:dyskinesia drug-induced	drug-disease
+db00361	dis:stomatitis	drug-disease
+db00334	dis:obesity	drug-disease
+db00624	dis:myocarditis	drug-disease
+db00502	dis:muscle hypertonia	drug-disease
+db00773	dis:testicular neoplasms	drug-disease
+db01035	dis:vomiting	drug-disease
+db00627	dis:pain	drug-disease
+db01065	dis:dizziness	drug-disease
+db01165	dis:cholestasis intrahepatic	drug-disease
+db01104	dis:catatonia	drug-disease
+db00675	dis:inflammation	drug-disease
+db01241	dis:mitochondrial diseases	drug-disease
+db00688	dis:autoimmune diseases	drug-disease
+db01035	dis:muscular diseases	drug-disease
+db00178	dis:cholestasis	drug-disease
+db00252	dis:color vision defects	drug-disease
+db00563	dis:arthralgia	drug-disease
+db01142	dis:bradycardia	drug-disease
+db00584	dis:peripheral vascular diseases	drug-disease
+db00997	dis:liver failure	drug-disease
+db00544	dis:vision disorders	drug-disease
+db01580	dis:tremor	drug-disease
+db01174	dis:oral ulcer	drug-disease
+db00586	dis:anuria	drug-disease
+db01388	dis:hypertrophy left ventricular	drug-disease
+db00997	dis:glomerulonephritis	drug-disease
+db00715	dis:delirium	drug-disease
+db00321	dis:urinary retention	drug-disease
+db00668	dis:cerebral hemorrhage	drug-disease
+db00316	dis:carcinoma renal cell	drug-disease
+db00968	dis:chills	drug-disease
+db01242	dis:serotonin syndrome	drug-disease
+db00501	dis:drug eruptions	drug-disease
+db01234	dis:shock septic	drug-disease
+db00570	dis:heart failure	drug-disease
+db00783	dis:sleep initiation and maintenance disorders	drug-disease
+db00544	dis:demyelinating diseases	drug-disease
+db00514	dis:dizziness	drug-disease
+db00759	dis:pain postoperative	drug-disease
+db00563	dis:cholestasis	drug-disease
+db00966	dis:acute kidney injury	drug-disease
+db00586	dis:shock	drug-disease
+db00184	dis:headache	drug-disease
+db00533	dis:edema	drug-disease
+db00358	dis:fatty liver	drug-disease
+db00934	dis:epilepsy	drug-disease
+db00320	dis:hypotension orthostatic	drug-disease
+db01248	dis:peripheral nervous system diseases	drug-disease
+db00316	dis:drug eruptions	drug-disease
+db00934	dis:atrial flutter	drug-disease
+db00945	dis:peptic ulcer	drug-disease
+db00537	dis:abdominal pain	drug-disease
+db00635	dis:glomerulonephritis	drug-disease
+db00656	dis:vasculitis leukocytoclastic cutaneous	drug-disease
+db00907	dis:apnea	drug-disease
+db00215	dis:restless legs syndrome	drug-disease
+db00358	dis:paresthesia	drug-disease
+db00696	dis:deglutition disorders	drug-disease
+db00363	dis:psychoses substance-induced	drug-disease
+db01193	dis:myasthenia gravis	drug-disease
+db00741	dis:vomiting	drug-disease
+db00203	dis:abdominal pain	drug-disease
+db01174	dis:thrombocytopenia	drug-disease
+db00945	dis:chemical and drug induced liver injury	drug-disease
+db01235	dis:seizures	drug-disease
+db00361	dis:lung diseases	drug-disease
+db00570	dis:testicular neoplasms	drug-disease
+db00917	dis:intestinal diseases	drug-disease
+db00316	dis:hyperplasia	drug-disease
+db00468	dis:anorexia	drug-disease
+db00759	dis:anemia megaloblastic	drug-disease
+db00458	dis:necrosis	drug-disease
+db01050	dis:hyperkalemia	drug-disease
+db00773	dis:chemical and drug induced liver injury	drug-disease
+db00734	dis:tremor	drug-disease
+db01045	dis:liver diseases	drug-disease
+db01242	dis:drug overdose	drug-disease
+db01050	dis:anaphylaxis	drug-disease
+db01174	dis:jaundice	drug-disease
+db00695	dis:hypokalemia	drug-disease
+db00661	dis:status epilepticus	drug-disease
+db00790	dis:insulin resistance	drug-disease
+db00696	dis:hypothermia	drug-disease
+db00811	dis:autonomic nervous system diseases	drug-disease
+db00412	dis:metabolic syndrome	drug-disease
+db00608	dis:paresis	drug-disease
+db00571	dis:tachycardia	drug-disease
+db00908	dis:photosensitivity disorders	drug-disease
+db00542	dis:neovascularization pathologic	drug-disease
+db00669	dis:edema	drug-disease
+db00907	dis:tic disorders	drug-disease
+db00945	dis:heart diseases	drug-disease
+db00343	dis:stevens-johnson syndrome	drug-disease
+db00514	dis:postoperative nausea and vomiting	drug-disease
+db00668	dis:ventricular premature complexes	drug-disease
+db00829	dis:spinal cord diseases	drug-disease
+db01221	dis:pulmonary edema	drug-disease
+db00831	dis:akathisia drug-induced	drug-disease
+db00945	dis:muscle hypotonia	drug-disease
+db00361	dis:kidney diseases	drug-disease
+db00759	dis:fatty liver	drug-disease
+db01204	dis:bradycardia	drug-disease
+db01075	dis:endometrial neoplasms	drug-disease
+db00997	dis:liver cirrhosis experimental	drug-disease
+db00316	dis:melanoma	drug-disease
+db00861	dis:gastrointestinal diseases	drug-disease
+db00661	dis:glycosuria	drug-disease
+db01059	dis:jaundice obstructive	drug-disease
+db01115	dis:dysarthria	drug-disease
+db01248	dis:lung diseases	drug-disease
+db01242	dis:brain infarction	drug-disease
+db00252	dis:atherosclerosis	drug-disease
+db00428	dis:cardiomyopathy dilated	drug-disease
+db00544	dis:hyperammonemia	drug-disease
+db01177	dis:diarrhea	drug-disease
+db01388	dis:heart diseases	drug-disease
+db01400	dis:cardiomegaly	drug-disease
+db00316	dis:pancreatitis	drug-disease
+db00264	dis:hydronephrosis	drug-disease
+db00206	dis:parkinsonian disorders	drug-disease
+db01065	dis:cardiomyopathies	drug-disease
+db00586	dis:quadriplegia	drug-disease
+db01026	dis:angioedema	drug-disease
+db00328	dis:thrombocytopenia	drug-disease
+db01229	dis:hearing disorders	drug-disease
+db00295	dis:ventricular premature complexes	drug-disease
+db00482	dis:vasculitis leukocytoclastic cutaneous	drug-disease
+db01136	dis:cardiotoxicity	drug-disease
+db00197	dis:hepatitis	drug-disease
+db03128	dis:status epilepticus	drug-disease
+db00211	dis:ataxia	drug-disease
+db00715	dis:hepatitis	drug-disease
+db00321	dis:fever	drug-disease
+db00783	dis:prenatal injuries	drug-disease
+db00363	dis:paralysis	drug-disease
+db00501	dis:polymyositis	drug-disease
+db00860	dis:fever	drug-disease
+db01221	dis:nausea	drug-disease
+db00501	dis:central nervous system diseases	drug-disease
+db00134	dis:liver diseases	drug-disease
+db00602	dis:pulmonary embolism	drug-disease
+db00398	dis:leukemia myeloid acute	drug-disease
+db00988	dis:hyperalgesia	drug-disease
+db00968	dis:reflex abnormal	drug-disease
+db01268	dis:neoplasm metastasis	drug-disease
+db00477	dis:parkinsonian disorders	drug-disease
+db00321	dis:substance withdrawal syndrome	drug-disease
+db00908	dis:cholestasis	drug-disease
+db00285	dis:headache	drug-disease
+db00564	dis:basal ganglia diseases	drug-disease
+db04216	dis:hemolysis	drug-disease
+db01234	dis:brain neoplasms	drug-disease
+db01400	dis:dizziness	drug-disease
+db00555	dis:stevens-johnson syndrome	drug-disease
+db00559	dis:hypertension	drug-disease
+db00829	dis:cardiomyopathies	drug-disease
+db01142	dis:substance withdrawal syndrome	drug-disease
+db00945	dis:kidney diseases	drug-disease
+db00641	dis:psychoses substance-induced	drug-disease
+db00968	dis:hypesthesia	drug-disease
+db00635	dis:hyperbilirubinemia	drug-disease
+db01234	dis:pericardial effusion	drug-disease
+db00908	dis:hypokalemia	drug-disease
+db00973	dis:pain	drug-disease
+db01234	dis:chemical and drug induced liver injury	drug-disease
+db01212	dis:long qt syndrome	drug-disease
+db00590	dis:hypercholesterolemia	drug-disease
+db00457	dis:renal insufficiency	drug-disease
+db00175	dis:pain	drug-disease
+db00428	dis:kidney neoplasms	drug-disease
+db00619	dis:glioma	drug-disease
+db00541	dis:thrombocytopenia	drug-disease
+db00661	dis:heart failure	drug-disease
+db01136	dis:necrosis	drug-disease
+db00468	dis:renal insufficiency	drug-disease
+db00537	dis:lymphatic diseases	drug-disease
+db00458	dis:central nervous system diseases	drug-disease
+db00741	dis:insulin resistance	drug-disease
+db01193	dis:bradycardia	drug-disease
+db01035	dis:jaundice obstructive	drug-disease
+db00477	dis:muscular diseases	drug-disease
+db01149	dis:rhabdomyolysis	drug-disease
+db01177	dis:vomiting	drug-disease
+db00343	dis:hyperkalemia	drug-disease
+db00584	dis:stroke	drug-disease
+db00470	dis:hypotension	drug-disease
+db00945	dis:hypesthesia	drug-disease
+db01183	dis:dementia	drug-disease
+db00428	dis:diabetes mellitus experimental	drug-disease
+db00361	dis:phlebitis	drug-disease
+db00477	dis:syncope	drug-disease
+db00541	dis:liver diseases	drug-disease
+db01035	dis:hallucinations	drug-disease
+db00197	dis:diabetes mellitus experimental	drug-disease
+db00295	dis:psychoses substance-induced	drug-disease
+db00134	dis:carcinoma hepatocellular	drug-disease
+db00726	dis:epilepsy tonic-clonic	drug-disease
+db00398	dis:hypertension	drug-disease
+db01235	dis:parkinsonian disorders	drug-disease
+db00252	dis:drug-related side effects and adverse reactions	drug-disease
+db00917	dis:pain postoperative	drug-disease
+db00627	dis:dyspepsia	drug-disease
+db01182	dis:torsades de pointes	drug-disease
+db00316	dis:vomiting	drug-disease
+db00439	dis:acute kidney injury	drug-disease
+db00966	dis:edema	drug-disease
+db00977	dis:cholestasis intrahepatic	drug-disease
+db01394	dis:quadriplegia	drug-disease
+db01244	dis:atrial flutter	drug-disease
+db00563	dis:gastrointestinal hemorrhage	drug-disease
+db00987	dis:proteinuria	drug-disease
+db00584	dis:purpura schoenlein-henoch	drug-disease
+db01211	dis:pulmonary disease chronic obstructive	drug-disease
+db00206	dis:cardiomyopathies	drug-disease
+db00215	dis:atrial fibrillation	drug-disease
+db01393	dis:obesity	drug-disease
+db01200	dis:catalepsy	drug-disease
+db00500	dis:memory disorders	drug-disease
+db01174	dis:liver diseases	drug-disease
+db00624	dis:angina pectoris	drug-disease
+db00197	dis:diabetes mellitus type 2	drug-disease
+db00811	dis:liver failure	drug-disease
+db00860	dis:dermatomyositis	drug-disease
+db00863	dis:drug hypersensitivity	drug-disease
+db00333	dis:myoclonus	drug-disease
+db00227	dis:angioedema	drug-disease
+db00875	dis:heroin dependence	drug-disease
+db00860	dis:hearing loss sensorineural	drug-disease
+db00915	dis:neurologic manifestations	drug-disease
+db00428	dis:leukopenia	drug-disease
+db00571	dis:tachycardia paroxysmal	drug-disease
+db00661	dis:coronary vasospasm	drug-disease
+db00819	dis:ataxia	drug-disease
+db00755	dis:intracranial hemorrhages	drug-disease
+db00829	dis:hypotension	drug-disease
+db00544	dis:mucositis	drug-disease
+db00445	dis:leukopenia	drug-disease
+db00477	dis:neoplasms	drug-disease
+db01200	dis:liver neoplasms	drug-disease
+db00836	dis:constipation	drug-disease
+db00472	dis:paresthesia	drug-disease
+db00712	dis:nephritis interstitial	drug-disease
+db00334	dis:drug hypersensitivity	drug-disease
+db00477	dis:autoimmune diseases	drug-disease
+db00564	dis:leukopenia	drug-disease
+db00255	dis:hypertriglyceridemia	drug-disease
+db01393	dis:carcinoma hepatocellular	drug-disease
+db01149	dis:muscle rigidity	drug-disease
+db00635	dis:hearing loss	drug-disease
+db00712	dis:anorexia	drug-disease
+db00537	dis:proteinuria	drug-disease
+db00672	dis:dermatitis	drug-disease
+db00544	dis:thrombosis	drug-disease
+db01165	dis:vomiting	drug-disease
+db00860	dis:non-alcoholic fatty liver disease	drug-disease
+db00563	dis:nervous system diseases	drug-disease
+db00472	dis:heroin dependence	drug-disease
+db01043	dis:movement disorders	drug-disease
+db00412	dis:hypertension	drug-disease
+db00295	dis:constipation	drug-disease
+db00921	dis:myocardial infarction	drug-disease
+db00882	dis:thromboembolism	drug-disease
+db00907	dis:demyelinating diseases	drug-disease
+db00363	dis:hyperlipidemias	drug-disease
+db00788	dis:bacterial infections	drug-disease
+db01132	dis:weight gain	drug-disease
+db01095	dis:angina pectoris	drug-disease
+db04216	dis:inflammation	drug-disease
+db01177	dis:hemorrhage	drug-disease
+db01577	dis:xerostomia	drug-disease
+db00655	dis:pituitary neoplasms	drug-disease
+db01050	dis:brain diseases	drug-disease
+db00903	dis:hypotension	drug-disease
+db01115	dis:vascular diseases	drug-disease
+db00316	dis:granuloma	drug-disease
+db00549	dis:reperfusion injury	drug-disease
+db00608	dis:muscular atrophy	drug-disease
+db01174	dis:necrosis	drug-disease
+db00349	dis:hypophosphatemia	drug-disease
+db00907	dis:venous thrombosis	drug-disease
+db00446	dis:bone marrow diseases	drug-disease
+db00571	dis:bradycardia	drug-disease
+db00537	dis:vascular diseases	drug-disease
+db00672	dis:diabetes mellitus type 2	drug-disease
+db00641	dis:raynaud disease	drug-disease
+db00502	dis:dyskinesias	drug-disease
+db00328	dis:leukemia myeloid acute	drug-disease
+db00997	dis:angioedema	drug-disease
+db00544	dis:arrhythmias cardiac	drug-disease
+db00477	dis:weight gain	drug-disease
+db00472	dis:hypertension	drug-disease
+db00541	dis:urinary retention	drug-disease
+db00140	dis:colorectal neoplasms	drug-disease
+db00934	dis:alzheimer disease	drug-disease
+db00468	dis:vision disorders	drug-disease
+db00458	dis:pain	drug-disease
+db00201	dis:heart arrest	drug-disease
+db00182	dis:hypotension	drug-disease
+db00472	dis:fatigue	drug-disease
+db00590	dis:cardiomegaly	drug-disease
+db00458	dis:bundle-branch block	drug-disease
+db00334	dis:catalepsy	drug-disease
+db00627	dis:pneumonia	drug-disease
+db01098	dis:hyperlipidemias	drug-disease
+db00281	dis:cardiovascular diseases	drug-disease
+db00571	dis:hypokalemia	drug-disease
+db00908	dis:atrial fibrillation	drug-disease
+db00575	dis:hyperprolactinemia	drug-disease
+db00755	dis:hyperbilirubinemia	drug-disease
+db01097	dis:hypertension	drug-disease
+db01035	dis:heart failure	drug-disease
+db13919	dis:obstetric labor premature	drug-disease
+db00834	dis:heart arrest	drug-disease
+db00328	dis:pain postoperative	drug-disease
+db00313	dis:chemical and drug induced liver injury	drug-disease
+db00860	dis:myositis	drug-disease
+db00363	dis:weight gain	drug-disease
+db01174	dis:cell transformation neoplastic	drug-disease
+db00802	dis:tachycardia	drug-disease
+db00641	dis:myocardial reperfusion injury	drug-disease
+db00704	dis:amphetamine-related disorders	drug-disease
+db01076	dis:hypertriglyceridemia	drug-disease
+db00586	dis:coronary vasospasm	drug-disease
+db00396	dis:demyelinating diseases	drug-disease
+db00584	dis:azotemia	drug-disease
+db01065	dis:peritonitis	drug-disease
+db01069	dis:acute kidney injury	drug-disease
+db00252	dis:jaundice obstructive	drug-disease
+db00959	dis:erythema	drug-disease
+db01032	dis:eosinophilia	drug-disease
+db00541	dis:hypocalcemia	drug-disease
+db00428	dis:neural tube defects	drug-disease
+db00678	dis:dysarthria	drug-disease
+db00555	dis:movement disorders	drug-disease
+db00320	dis:angina pectoris	drug-disease
+db00945	dis:hyperbilirubinemia	drug-disease
+db00831	dis:catatonia	drug-disease
+db00215	dis:stroke	drug-disease
+db04557	dis:pericardial effusion	drug-disease
+db00264	dis:myocardial reperfusion injury	drug-disease
+db00277	dis:status epilepticus	drug-disease
+db01092	dis:necrosis	drug-disease
+db00428	dis:fatty liver	drug-disease
+db00390	dis:death sudden	drug-disease
+db00860	dis:drug-related side effects and adverse reactions	drug-disease
+db00502	dis:delirium	drug-disease
+db00656	dis:stroke	drug-disease
+db00959	dis:constipation	drug-disease
+db00199	dis:bradycardia	drug-disease
+db00755	dis:pulmonary edema	drug-disease
+db00544	dis:tachycardia sinus	drug-disease
+db00773	dis:anemia	drug-disease
+db00316	dis:myocardial infarction	drug-disease
+db00678	dis:hypotension	drug-disease
+db00656	dis:syncope	drug-disease
+db01248	dis:breast neoplasms	drug-disease
+db00683	dis:psychoses substance-induced	drug-disease
+db00640	dis:pain	drug-disease
+db00907	dis:fever	drug-disease
+db00533	dis:intestinal diseases	drug-disease
+db00363	dis:vision disorders	drug-disease
+db01200	dis:pituitary neoplasms	drug-disease
+db00987	dis:brain injuries	drug-disease
+db00206	dis:nausea	drug-disease
+db00712	dis:inflammation	drug-disease
+db00575	dis:hypoglycemia	drug-disease
+db00795	dis:drug-related side effects and adverse reactions	drug-disease
+db00836	dis:stevens-johnson syndrome	drug-disease
+db01132	dis:cystic fibrosis	drug-disease
+db00863	dis:hyperalgesia	drug-disease
+db00571	dis:migraine disorders	drug-disease
+db01026	dis:catalepsy	drug-disease
+db00564	dis:hepatic encephalopathy	drug-disease
+db00945	dis:hyperglycemia	drug-disease
+db01136	dis:acute kidney injury	drug-disease
+db01174	dis:hypertrophy	drug-disease
+db00564	dis:peripheral nervous system diseases	drug-disease
+db00328	dis:purpura	drug-disease
+db00661	dis:ventricular dysfunction left	drug-disease
+db00227	dis:pancreatic neoplasms	drug-disease
+db00704	dis:dizziness	drug-disease
+db00182	dis:pain	drug-disease
+db00590	dis:insulin resistance	drug-disease
+db00227	dis:jaundice obstructive	drug-disease
+db00495	dis:xerostomia	drug-disease
+db00537	dis:epilepsy tonic-clonic	drug-disease
+db01065	dis:hyperalgesia	drug-disease
+db00790	dis:cardiomegaly	drug-disease
+db00661	dis:urination disorders	drug-disease
+db00437	dis:leukemia lymphoid	drug-disease
+db00544	dis:coma	drug-disease
+db00343	dis:nervous system diseases	drug-disease
+db00368	dis:bundle-branch block	drug-disease
+db00635	dis:multiple myeloma	drug-disease
+db00533	dis:liver cirrhosis experimental	drug-disease
+db01097	dis:vasculitis	drug-disease
+db00537	dis:paresthesia	drug-disease
+db00252	dis:polymyositis	drug-disease
+db00586	dis:kidney tubular necrosis acute	drug-disease
+db00635	dis:liver neoplasms	drug-disease
+db00215	dis:priapism	drug-disease
+db01076	dis:liver cirrhosis experimental	drug-disease
+db01076	dis:chemical and drug induced liver injury	drug-disease
+db00495	dis:kidney failure chronic	drug-disease
+db00542	dis:acute kidney injury	drug-disease
+db00997	dis:colorectal neoplasms	drug-disease
+db01065	dis:osteoporosis	drug-disease
+db00795	dis:arthralgia	drug-disease
+db00655	dis:prostatic neoplasms	drug-disease
+db01182	dis:epilepsies myoclonic	drug-disease
+db00907	dis:cardiomegaly	drug-disease
+db00661	dis:dyspnea	drug-disease
+db01136	dis:atrioventricular block	drug-disease
+db01035	dis:tachycardia ventricular	drug-disease
+db00363	dis:pleural effusion	drug-disease
+db01035	dis:diarrhea	drug-disease
+db00966	dis:diabetes mellitus	drug-disease
+db00441	dis:alopecia	drug-disease
+db00361	dis:agranulocytosis	drug-disease
+db00813	dis:hypothermia	drug-disease
+db00759	dis:mitochondrial diseases	drug-disease
+db00482	dis:cholestasis	drug-disease
+db00860	dis:kidney diseases	drug-disease
+db00412	dis:arthritis experimental	drug-disease
+db01248	dis:heart failure	drug-disease
+db01204	dis:rhabdomyolysis	drug-disease
+db00655	dis:cell transformation neoplastic	drug-disease
+db00349	dis:proteinuria	drug-disease
+db01118	dis:jaundice obstructive	drug-disease
+db00683	dis:brain diseases	drug-disease
+db00571	dis:drug-related side effects and adverse reactions	drug-disease
+db00564	dis:chemical and drug induced liver injury	drug-disease
+db00641	dis:muscular diseases	drug-disease
+db00363	dis:anorexia	drug-disease
+db00694	dis:infection	drug-disease
+db00343	dis:anemia hemolytic autoimmune	drug-disease
+db01183	dis:anaphylaxis	drug-disease
+db01165	dis:arrhythmias cardiac	drug-disease
+db01009	dis:hypertension	drug-disease
+db01075	dis:rhabdomyolysis	drug-disease
+db00571	dis:dyspnea	drug-disease
+db00668	dis:leukocytosis	drug-disease
+db00363	dis:hepatomegaly	drug-disease
+db01241	dis:cardiovascular diseases	drug-disease
+db00477	dis:respiratory insufficiency	drug-disease
+db00252	dis:eosinophilia	drug-disease
+db00184	dis:osteoarthritis	drug-disease
+db01035	dis:coronary artery disease	drug-disease
+db00321	dis:respiratory insufficiency	drug-disease
+db00586	dis:nervous system malformations	drug-disease
+db00977	dis:acne vulgaris	drug-disease
+db00500	dis:nephritis interstitial	drug-disease
+db00921	dis:vasospasm intracranial	drug-disease
+db01577	dis:disseminated intravascular coagulation	drug-disease
+db01037	dis:seizures	drug-disease
+db00584	dis:liver diseases	drug-disease
+db04216	dis:weight gain	drug-disease
+db01248	dis:hypotension	drug-disease
+db00812	dis:dermatomyositis	drug-disease
+db00501	dis:sinus arrest cardiac	drug-disease
+db00368	dis:arrhythmias cardiac	drug-disease
+db00802	dis:sick sinus syndrome	drug-disease
+db01196	dis:chemical and drug induced liver injury	drug-disease
+db00285	dis:liver failure acute	drug-disease
+db00295	dis:necrosis	drug-disease
+db01050	dis:mammary neoplasms experimental	drug-disease
+db00915	dis:psychoses substance-induced	drug-disease
+db00571	dis:heart arrest	drug-disease
+db00683	dis:hiccup	drug-disease
+db00441	dis:uremia	drug-disease
+db00482	dis:uterine neoplasms	drug-disease
+db00997	dis:acute kidney injury	drug-disease
+db00441	dis:anaphylaxis	drug-disease
+db00254	dis:osteoarthritis	drug-disease
+db00908	dis:arrhythmias cardiac	drug-disease
+db00368	dis:hypertrophy	drug-disease
+db00564	dis:hypothermia	drug-disease
+db00635	dis:acute kidney injury	drug-disease
+db00829	dis:substance withdrawal syndrome	drug-disease
+db00412	dis:heart failure	drug-disease
+db00544	dis:liver neoplasms experimental	drug-disease
+db00344	dis:malaria	drug-disease
+db00788	dis:fibrosis	drug-disease
+db00694	dis:torsades de pointes	drug-disease
+db00457	dis:ventricular dysfunction left	drug-disease
+db00482	dis:catatonia	drug-disease
+db00997	dis:erythema	drug-disease
+db00734	dis:stomach ulcer	drug-disease
+db00437	dis:proteinuria	drug-disease
+db04216	dis:cystitis	drug-disease
+db00563	dis:precursor cell lymphoblastic leukemia-lymphoma	drug-disease
+db04216	dis:mammary neoplasms animal	drug-disease
+db01097	dis:craniofacial abnormalities	drug-disease
+db00586	dis:amphetamine-related disorders	drug-disease
+db01136	dis:cardiomyopathies	drug-disease
+db00215	dis:cerebral hemorrhage	drug-disease
+db01132	dis:liver failure acute	drug-disease
+db00959	dis:diabetes mellitus	drug-disease
+db00285	dis:hot flashes	drug-disease
+db00696	dis:reflex abnormal	drug-disease
+db00443	dis:pruritus	drug-disease
+db00421	dis:liver cirrhosis	drug-disease
+db00320	dis:postoperative complications	drug-disease
+db00675	dis:carcinoma hepatocellular	drug-disease
+db01577	dis:brain diseases	drug-disease
+db00554	dis:urinary bladder neoplasms	drug-disease
+db00563	dis:prostatic neoplasms	drug-disease
+db00907	dis:papilledema	drug-disease
+db01065	dis:hyperhomocysteinemia	drug-disease
+db00563	dis:dermatomyositis	drug-disease
+db00783	dis:ventricular fibrillation	drug-disease
+db01069	dis:hyperkalemia	drug-disease
+db00281	dis:ventricular fibrillation	drug-disease
+db01075	dis:urinary retention	drug-disease
+db00252	dis:pseudotumor cerebri	drug-disease
+db00316	dis:anemia	drug-disease
+db01142	dis:myoclonus	drug-disease
+db00755	dis:syncope	drug-disease
+db01577	dis:prenatal injuries	drug-disease
+db01177	dis:alopecia	drug-disease
+db00575	dis:hyponatremia	drug-disease
+db00264	dis:peripheral vascular diseases	drug-disease
+db00696	dis:brain infarction	drug-disease
+db00264	dis:myocardial ischemia	drug-disease
+db00252	dis:chemical and drug induced liver injury	drug-disease
+db00564	dis:tachycardia sinus	drug-disease
+db00907	dis:cerebral hemorrhage	drug-disease
+db00533	dis:cardiovascular diseases	drug-disease
+db00915	dis:torsades de pointes	drug-disease
+db01167	dis:torsades de pointes	drug-disease
+db00184	dis:catalepsy	drug-disease
+db00140	dis:stroke	drug-disease
+db00755	dis:abdominal pain	drug-disease
+db00968	dis:tremor	drug-disease
+db00861	dis:stomatitis	drug-disease
+db00945	dis:jaundice	drug-disease
+db00281	dis:ventricular dysfunction	drug-disease
+db00428	dis:hypertrophy	drug-disease
+db00471	dis:angioedema	drug-disease
+db00421	dis:heart arrest	drug-disease
+db00199	dis:nausea	drug-disease
+db00533	dis:purpura	drug-disease
+db00502	dis:arrhythmias cardiac	drug-disease
+db00641	dis:drug-related side effects and adverse reactions	drug-disease
+db01050	dis:necrosis	drug-disease
+db00675	dis:cataract	drug-disease
+db00788	dis:anemia aplastic	drug-disease
+db01151	dis:delirium	drug-disease
+db00333	dis:coma	drug-disease
+db00903	dis:hearing loss bilateral	drug-disease
+db01577	dis:myocardial infarction	drug-disease
+db00176	dis:hypotension orthostatic	drug-disease
+db00215	dis:arrhythmias cardiac	drug-disease
+db01211	dis:hearing loss bilateral	drug-disease
+db00401	dis:edema	drug-disease
+db00321	dis:lipidoses	drug-disease
+db00316	dis:hemolysis	drug-disease
+db00602	dis:pruritus	drug-disease
+db00390	dis:long qt syndrome	drug-disease
+db00688	dis:hepatitis	drug-disease
+db00635	dis:cholelithiasis	drug-disease
+db01196	dis:bone marrow diseases	drug-disease
+db01234	dis:bradycardia	drug-disease
+db00554	dis:glomerulonephritis	drug-disease
+db00412	dis:chemical and drug induced liver injury	drug-disease
+db00755	dis:intestinal diseases	drug-disease
+db00501	dis:anuria	drug-disease
+db00537	dis:sleep wake disorders	drug-disease
+db00759	dis:muscle weakness	drug-disease
+db00197	dis:massive hepatic necrosis	drug-disease
+db00361	dis:hematologic diseases	drug-disease
+db01261	dis:inflammation	drug-disease
+db00672	dis:brain diseases metabolic	drug-disease
+db00281	dis:nervous system diseases	drug-disease
+db00997	dis:fever	drug-disease
+db00215	dis:seizures	drug-disease
+db00829	dis:glioblastoma	drug-disease
+db01229	dis:leukoencephalopathies	drug-disease
+db00734	dis:thromboembolism	drug-disease
+db00255	dis:uterine neoplasms	drug-disease
+db00602	dis:anuria	drug-disease
+db00472	dis:urination disorders	drug-disease
+db01234	dis:hypertension	drug-disease
+db01174	dis:liver cirrhosis	drug-disease
+db00635	dis:leukopenia	drug-disease
+db01211	dis:delirium	drug-disease
+db00554	dis:fetal growth retardation	drug-disease
+db00554	dis:neoplasms	drug-disease
+db01124	dis:nephrotic syndrome	drug-disease
+db00987	dis:olfaction disorders	drug-disease
+db01183	dis:tremor	drug-disease
+db01069	dis:hypocalcemia	drug-disease
+db00997	dis:lymphoma large b-cell diffuse	drug-disease
+db01248	dis:pancreatic neoplasms	drug-disease
+db01118	dis:nervous system diseases	drug-disease
+db00437	dis:neoplasms experimental	drug-disease
+db00537	dis:bone marrow diseases	drug-disease
+db00382	dis:pain	drug-disease
+db01016	dis:hyperglycemia	drug-disease
+db00333	dis:eye diseases	drug-disease
+db00675	dis:cardiovascular diseases	drug-disease
+db00446	dis:cerebral hemorrhage	drug-disease
+db00734	dis:hyperlipidemias	drug-disease
+db00624	dis:thrombosis	drug-disease
+db01221	dis:polyuria	drug-disease
+db01118	dis:thrombocytopenia	drug-disease
+db00563	dis:neural tube defects	drug-disease
+db00295	dis:delirium	drug-disease
+db01174	dis:massive hepatic necrosis	drug-disease
+db00563	dis:cerebral hemorrhage	drug-disease
+db00997	dis:vomiting	drug-disease
+db00959	dis:hodgkin disease	drug-disease
+db00134	dis:disease models animal	drug-disease
+db00907	dis:angioedema	drug-disease
+db00252	dis:gait ataxia	drug-disease
+db00281	dis:paresis	drug-disease
+db01151	dis:hypothermia	drug-disease
+db00668	dis:postoperative complications	drug-disease
+db00343	dis:photosensitivity disorders	drug-disease
+db00544	dis:adenocarcinoma	drug-disease
+db00254	dis:stevens-johnson syndrome	drug-disease
+db00734	dis:memory disorders	drug-disease
+db00811	dis:cystitis	drug-disease
+db00178	dis:stevens-johnson syndrome	drug-disease
+db01050	dis:pain postoperative	drug-disease
+db00343	dis:heart block	drug-disease
+db00333	dis:back pain	drug-disease
+db00734	dis:cystitis	drug-disease
+db01050	dis:abdominal pain	drug-disease
+db00201	dis:hyperemia	drug-disease
+db00584	dis:pulmonary disease chronic obstructive	drug-disease
+db00915	dis:seizures	drug-disease
+db01016	dis:diabetes mellitus	drug-disease
+db00627	dis:peripheral nervous system diseases	drug-disease
+db01248	dis:arthralgia	drug-disease
+db00533	dis:leukocytosis	drug-disease
+db00968	dis:lung diseases interstitial	drug-disease
+db00295	dis:pain	drug-disease
+db00563	dis:proteinuria	drug-disease
+db00759	dis:myocarditis	drug-disease
+db00328	dis:pneumonia	drug-disease
+db00959	dis:vision disorders	drug-disease
+db00755	dis:hemorrhage	drug-disease
+db01059	dis:urticaria	drug-disease
+db01182	dis:tachycardia paroxysmal	drug-disease
+db00544	dis:sexual dysfunction physiological	drug-disease
+db01045	dis:renal insufficiency	drug-disease
+db01586	dis:fatty liver	drug-disease
+db00788	dis:pulmonary edema	drug-disease
+db00468	dis:hemolytic-uremic syndrome	drug-disease
+db00694	dis:neutropenia	drug-disease
+db01177	dis:myelodysplastic syndromes	drug-disease
+db00255	dis:weight gain	drug-disease
+db00641	dis:nephrotic syndrome	drug-disease
+db00363	dis:epilepsy generalized	drug-disease
+db00668	dis:ventricular fibrillation	drug-disease
+db00668	dis:prenatal exposure delayed effects	drug-disease
+db00914	dis:disseminated intravascular coagulation	drug-disease
+db01118	dis:erectile dysfunction	drug-disease
+db00968	dis:hallucinations	drug-disease
+db00227	dis:liver cirrhosis	drug-disease
+db00863	dis:hypersensitivity	drug-disease
+db00987	dis:polyneuropathies	drug-disease
+db00280	dis:sinus arrest cardiac	drug-disease
+db00252	dis:abnormalities multiple	drug-disease
+db01115	dis:proteinuria	drug-disease
+db00537	dis:thrombocytopenia	drug-disease
+db00203	dis:prostatic neoplasms	drug-disease
+db00343	dis:kidney diseases	drug-disease
+db00316	dis:massive hepatic necrosis	drug-disease
+db00563	dis:photosensitivity disorders	drug-disease
+db00741	dis:arrhythmias cardiac	drug-disease
+db00197	dis:hyperinsulinism	drug-disease
+db00328	dis:bradycardia	drug-disease
+db01045	dis:hearing disorders	drug-disease
+db00668	dis:hypotension	drug-disease
+db00501	dis:dementia	drug-disease
+db01174	dis:carcinoma hepatocellular	drug-disease
+db01103	dis:agranulocytosis	drug-disease
+db00206	dis:hyperalgesia	drug-disease
+db00343	dis:fibrosis	drug-disease
+db00373	dis:hypotension orthostatic	drug-disease
+db00635	dis:angioedema	drug-disease
+db00446	dis:thrombocytopenia	drug-disease
+db00734	dis:necrosis	drug-disease
+db01136	dis:fever	drug-disease
+db01212	dis:hemolysis	drug-disease
+db00201	dis:abnormalities drug-induced	drug-disease
+db00555	dis:hyperalgesia	drug-disease
+db00695	dis:brain diseases	drug-disease
+db00788	dis:vasculitis	drug-disease
+db00575	dis:epilepsy tonic-clonic	drug-disease
+db01098	dis:diarrhea	drug-disease
+db00277	dis:urinary incontinence	drug-disease
+db01174	dis:heart defects congenital	drug-disease
+db00178	dis:atherosclerosis	drug-disease
+db01242	dis:speech disorders	drug-disease
+db00813	dis:postoperative complications	drug-disease
+db00570	dis:hemolytic-uremic syndrome	drug-disease
+db00907	dis:paresis	drug-disease
+db00997	dis:diabetes insipidus nephrogenic	drug-disease
+db00255	dis:lymphoma	drug-disease
+db00541	dis:respiratory insufficiency	drug-disease
+db00602	dis:renal insufficiency	drug-disease
+db01032	dis:nausea	drug-disease
+db01076	dis:thrombosis	drug-disease
+db00199	dis:dyspepsia	drug-disease
+db00544	dis:sarcoma	drug-disease
+db00834	dis:weight loss	drug-disease
+db00887	dis:hyperalgesia	drug-disease
+db00368	dis:substance withdrawal syndrome	drug-disease
+db01261	dis:vascular diseases	drug-disease
+db01065	dis:alzheimer disease	drug-disease
+db00624	dis:brain ischemia	drug-disease
+db00544	dis:memory disorders	drug-disease
+db00328	dis:pericarditis	drug-disease
+db00812	dis:gastrointestinal diseases	drug-disease
+db00802	dis:dystonia	drug-disease
+db00184	dis:neural tube defects	drug-disease
+db00227	dis:cholestasis intrahepatic	drug-disease
+db00908	dis:diarrhea	drug-disease
+db00421	dis:fibrosis	drug-disease
+db00988	dis:learning disorders	drug-disease
+db00563	dis:agranulocytosis	drug-disease
+db00907	dis:fetal growth retardation	drug-disease
+db00333	dis:leukoencephalopathies	drug-disease
+db01242	dis:neurobehavioral manifestations	drug-disease
+db00907	dis:xerostomia	drug-disease
+db01204	dis:multiple sclerosis	drug-disease
+db00795	dis:red-cell aplasia pure	drug-disease
+db00445	dis:nervous system diseases	drug-disease
+db00605	dis:memory disorders	drug-disease
+db00537	dis:dyspnea	drug-disease
+db01142	dis:drug overdose	drug-disease
+db01069	dis:dyskinesia drug-induced	drug-disease
+db00518	dis:muscle weakness	drug-disease
+db00502	dis:xerostomia	drug-disease
+db00361	dis:anemia	drug-disease
+db01229	dis:leukemia lymphoid	drug-disease
+db00443	dis:dysarthria	drug-disease
+db00656	dis:tachycardia ventricular	drug-disease
+db00675	dis:cholestasis	drug-disease
+db00586	dis:dizziness	drug-disease
+db00921	dis:pregnancy complications	drug-disease
+db00622	dis:liver diseases	drug-disease
+db01235	dis:disseminated intravascular coagulation	drug-disease
+db00471	dis:eosinophilia	drug-disease
+db00199	dis:tremor	drug-disease
+db00373	dis:gastrointestinal diseases	drug-disease
+db00773	dis:colorectal neoplasms	drug-disease
+db01016	dis:atherosclerosis	drug-disease
+db01165	dis:liver failure acute	drug-disease
+db00590	dis:dyslipidemias	drug-disease
+db00608	dis:vasculitis leukocytoclastic cutaneous	drug-disease
+db00398	dis:skin diseases	drug-disease
+db00819	dis:hypertrophy	drug-disease
+db01132	dis:heart failure	drug-disease
+db01212	dis:anemia hemolytic	drug-disease
+db00280	dis:cholestasis intrahepatic	drug-disease
+db01100	dis:movement disorders	drug-disease
+db00997	dis:leukemia myeloid acute	drug-disease
+db00813	dis:urinary bladder diseases	drug-disease
+db00252	dis:hypothyroidism	drug-disease
+db00495	dis:cardiotoxicity	drug-disease
+db01183	dis:hyperkinesis	drug-disease
+db00201	dis:hematuria	drug-disease
+db00281	dis:muscular diseases	drug-disease
+db01183	dis:myocardial infarction	drug-disease
+db00813	dis:drug-related side effects and adverse reactions	drug-disease
+db00537	dis:atrial fibrillation	drug-disease
+db01221	dis:psychoses substance-induced	drug-disease
+db00783	dis:weight gain	drug-disease
+db00482	dis:venous thrombosis	drug-disease
+db00812	dis:agranulocytosis	drug-disease
+db00734	dis:fever	drug-disease
+db00175	dis:myositis	drug-disease
+db00316	dis:anaphylaxis	drug-disease
+db00477	dis:dizziness	drug-disease
+db00373	dis:ischemic attack transient	drug-disease
+db00184	dis:hypothermia	drug-disease
+db00683	dis:ataxia	drug-disease
+db00908	dis:thrombocytopenia	drug-disease
+db00863	dis:cholestasis intrahepatic	drug-disease
+db00184	dis:stomach neoplasms	drug-disease
+db00672	dis:edema	drug-disease
+db00363	dis:urinary retention	drug-disease
+db00741	dis:shock	drug-disease
+db00537	dis:angioedema	drug-disease
+db00472	dis:hallucinations	drug-disease
+db01229	dis:stomach neoplasms	drug-disease
+db01045	dis:oliguria	drug-disease
+db01229	dis:precursor cell lymphoblastic leukemia-lymphoma	drug-disease
+db00332	dis:dyspnea	drug-disease
+db00575	dis:myocardial infarction	drug-disease
+db01104	dis:lipidoses	drug-disease
+db00672	dis:shock	drug-disease
+db04216	dis:prostatic neoplasms	drug-disease
+db01229	dis:esophageal neoplasms	drug-disease
+db01200	dis:hearing loss bilateral	drug-disease
+db00635	dis:basal ganglia diseases	drug-disease
+db00584	dis:liver cirrhosis	drug-disease
+db00887	dis:stevens-johnson syndrome	drug-disease
+db00977	dis:arthritis experimental	drug-disease
+db00368	dis:bradycardia	drug-disease
+db01200	dis:cardiomyopathy dilated	drug-disease
+db00605	dis:anemia hemolytic	drug-disease
+db00813	dis:torsades de pointes	drug-disease
+db00836	dis:gastroenteritis	drug-disease
+db00501	dis:anaphylaxis	drug-disease
+db00715	dis:restless legs syndrome	drug-disease
+db00472	dis:brain infarction	drug-disease
+db01234	dis:neoplasms experimental	drug-disease
+db00176	dis:dysarthria	drug-disease
+db00211	dis:cardiac output low	drug-disease
+db00987	dis:sepsis	drug-disease
+db01248	dis:multiple myeloma	drug-disease
+db00495	dis:neurobehavioral manifestations	drug-disease
+db00544	dis:ascites	drug-disease
+db00428	dis:oligospermia	drug-disease
+db00812	dis:anemia aplastic	drug-disease
+db00734	dis:dyskinesia drug-induced	drug-disease
+db00819	dis:taste disorders	drug-disease
+db00790	dis:weight loss	drug-disease
+db00977	dis:cardiovascular diseases	drug-disease
+db00313	dis:hematuria	drug-disease
+db01165	dis:headache	drug-disease
+db01268	dis:heart failure	drug-disease
+db00361	dis:hypertension	drug-disease
+db00544	dis:inappropriate adh syndrome	drug-disease
+db00541	dis:constipation	drug-disease
+db01104	dis:akathisia drug-induced	drug-disease
+db00907	dis:ischemic attack transient	drug-disease
+db00695	dis:shock cardiogenic	drug-disease
+db01221	dis:vision disorders	drug-disease
+db00812	dis:leukopenia	drug-disease
+db00264	dis:myocardial infarction	drug-disease
+db01115	dis:cardiovascular diseases	drug-disease
+db00334	dis:chorea	drug-disease
+db01026	dis:muscle weakness	drug-disease
+db00321	dis:cholestasis	drug-disease
+db01184	dis:fever	drug-disease
+db01400	dis:muscle weakness	drug-disease
+db00623	dis:movement disorders	drug-disease
+db01242	dis:heart diseases	drug-disease
+db00571	dis:sick sinus syndrome	drug-disease
+db00563	dis:lymphoma b-cell	drug-disease
+db00795	dis:gastrointestinal diseases	drug-disease
+db01035	dis:proteinuria	drug-disease
+db00373	dis:myocardial infarction	drug-disease
+db01045	dis:vasculitis leukocytoclastic cutaneous	drug-disease
+db00252	dis:dystonia	drug-disease
+db00295	dis:vertigo	drug-disease
+db00907	dis:quadriplegia	drug-disease
+db00343	dis:hypoxia	drug-disease
+db00328	dis:adenocarcinoma	drug-disease
+db00987	dis:ventricular fibrillation	drug-disease
+db01115	dis:hypothyroidism	drug-disease
+db00997	dis:kidney failure chronic	drug-disease
+db00619	dis:hearing loss sensorineural	drug-disease
+db01645	dis:liver cirrhosis experimental	drug-disease
+db00773	dis:renal insufficiency	drug-disease
+db01393	dis:glucose intolerance	drug-disease
+db00640	dis:atrioventricular block	drug-disease
+db00252	dis:cerebellar diseases	drug-disease
+db00363	dis:cataplexy	drug-disease
+db00182	dis:ataxia	drug-disease
+db00814	dis:lethargy	drug-disease
+db01174	dis:coma	drug-disease
+db00541	dis:paralysis	drug-disease
+db00390	dis:tachycardia	drug-disease
+db00675	dis:dyskinesia drug-induced	drug-disease
+db00795	dis:fever	drug-disease
+db00334	dis:eosinophilia	drug-disease
+db01234	dis:venous thromboembolism	drug-disease
+db00945	dis:hyperalgesia	drug-disease
+db00997	dis:adenocarcinoma	drug-disease
+db00810	dis:parkinsonian disorders	drug-disease
+db00977	dis:diarrhea	drug-disease
+db00715	dis:abnormalities drug-induced	drug-disease
+db00675	dis:thromboembolism	drug-disease
+db00882	dis:movement disorders	drug-disease
+db00182	dis:subarachnoid hemorrhage	drug-disease
+db00184	dis:ischemia	drug-disease
+db01045	dis:meningitis aseptic	drug-disease
+db00313	dis:tremor	drug-disease
+db01396	dis:ventricular fibrillation	drug-disease
+db00396	dis:epilepsy absence	drug-disease
+db00795	dis:leukocytosis	drug-disease
+db00184	dis:obesity	drug-disease
+db00495	dis:muscle weakness	drug-disease
+db00704	dis:heroin dependence	drug-disease
+db00755	dis:abnormalities multiple	drug-disease
+db00997	dis:oral ulcer	drug-disease
+db00641	dis:neoplasms experimental	drug-disease
+db00446	dis:angioedema	drug-disease
+db00860	dis:catatonia	drug-disease
+db00586	dis:ulcer	drug-disease
+db00734	dis:edema	drug-disease
+db00635	dis:multiple sclerosis	drug-disease
+db00519	dis:coronary vasospasm	drug-disease
+db09462	dis:disease models animal	drug-disease
+db01100	dis:hypokinesia	drug-disease
+db00313	dis:hypotension	drug-disease
+db00678	dis:ventricular dysfunction left	drug-disease
+db00252	dis:hiccup	drug-disease
+db00544	dis:pancreatic neoplasms	drug-disease
+db00175	dis:respiratory tract infections	drug-disease
+db00541	dis:cerebral hemorrhage	drug-disease
+db00966	dis:hemorrhage	drug-disease
+db04557	dis:heart defects congenital	drug-disease
+db00252	dis:dermatomyositis	drug-disease
+db00182	dis:pulmonary edema	drug-disease
+db01204	dis:poisoning	drug-disease
+db00441	dis:peripheral nervous system diseases	drug-disease
+db00563	dis:fever	drug-disease
+db01016	dis:acidosis lactic	drug-disease
+db00514	dis:sleep initiation and maintenance disorders	drug-disease
+db00541	dis:acute kidney injury	drug-disease
+db00533	dis:heart failure	drug-disease
+db00987	dis:necrosis	drug-disease
+db00715	dis:hot flashes	drug-disease
+db01054	dis:catalepsy	drug-disease
+db00468	dis:optic atrophy	drug-disease
+db00175	dis:drug-related side effects and adverse reactions	drug-disease
+db00712	dis:intestinal diseases	drug-disease
+db00281	dis:seizures	drug-disease
+db01229	dis:diplopia	drug-disease
+db04557	dis:inflammation	drug-disease
+db00635	dis:cardiomyopathies	drug-disease
+db00563	dis:seizures	drug-disease
+db00285	dis:neuralgia	drug-disease
+db00502	dis:chemical and drug induced liver injury	drug-disease
+db00501	dis:neurobehavioral manifestations	drug-disease
+db00813	dis:delirium	drug-disease
+db00755	dis:neural tube defects	drug-disease
+db00549	dis:eosinophilia	drug-disease
+db01118	dis:shock	drug-disease
+db00619	dis:exanthema	drug-disease
+db00605	dis:pancreatitis	drug-disease
+db00635	dis:hepatitis	drug-disease
+db00541	dis:neurobehavioral manifestations	drug-disease
+db00440	dis:jaundice obstructive	drug-disease
+db00627	dis:chemical and drug induced liver injury	drug-disease
+db01396	dis:thrombocytopenia	drug-disease
+db00641	dis:pulmonary edema	drug-disease
+db00502	dis:confusion	drug-disease
+db00277	dis:tachycardia supraventricular	drug-disease
+db00215	dis:hypothermia	drug-disease
+db00295	dis:basal ganglia diseases	drug-disease
+db00997	dis:neoplasm invasiveness	drug-disease
+db00908	dis:ventricular premature complexes	drug-disease
+db00563	dis:sialorrhea	drug-disease
+db00977	dis:venous thromboembolism	drug-disease
+db00358	dis:anemia hemolytic autoimmune	drug-disease
+db00661	dis:amnesia	drug-disease
+db00987	dis:headache	drug-disease
+db00158	dis:proteinuria	drug-disease
+db00675	dis:prostatic neoplasms	drug-disease
+db00712	dis:pain	drug-disease
+db00635	dis:leukoencephalopathies	drug-disease
+db01115	dis:parkinson disease secondary	drug-disease
+db00594	dis:growth disorders	drug-disease
+db00829	dis:atrioventricular block	drug-disease
+db00602	dis:lethargy	drug-disease
+db00541	dis:poisoning	drug-disease
+db00281	dis:spinal cord diseases	drug-disease
+db00333	dis:shock cardiogenic	drug-disease
+db03783	dis:pneumonia	drug-disease
+db00635	dis:red-cell aplasia pure	drug-disease
+db01234	dis:vertigo	drug-disease
+db01115	dis:myoclonus	drug-disease
+db00482	dis:hallucinations	drug-disease
+db00759	dis:acne vulgaris	drug-disease
+db00472	dis:cardiomegaly	drug-disease
+db00295	dis:granuloma	drug-disease
+db00495	dis:neutropenia	drug-disease
+db00668	dis:vascular diseases	drug-disease
+db00382	dis:drug-related side effects and adverse reactions	drug-disease
+db00959	dis:precursor cell lymphoblastic leukemia-lymphoma	drug-disease
+db01248	dis:edema	drug-disease
+db00759	dis:kidney tubular necrosis acute	drug-disease
+db01035	dis:necrosis	drug-disease
+db00619	dis:purpura	drug-disease
+db01050	dis:urination disorders	drug-disease
+db01167	dis:drug eruptions	drug-disease
+db01242	dis:heart defects congenital	drug-disease
+db00977	dis:venous thrombosis	drug-disease
+db00328	dis:sexual dysfunction physiological	drug-disease
+db00627	dis:dyskinesias	drug-disease
+db00255	dis:headache	drug-disease
+db00575	dis:cataplexy	drug-disease
+db01241	dis:arthritis	drug-disease
+db00184	dis:neoplasms experimental	drug-disease
+db09462	dis:anuria	drug-disease
+db00696	dis:fibrosis	drug-disease
+db00501	dis:catatonia	drug-disease
+db00563	dis:fetal death	drug-disease
+db00945	dis:neoplasms experimental	drug-disease
+db00544	dis:arterial occlusive diseases	drug-disease
+db00470	dis:memory disorders	drug-disease
+db01098	dis:inflammation	drug-disease
+db00541	dis:hearing loss bilateral	drug-disease
+db00811	dis:sexual dysfunction physiological	drug-disease
+db01248	dis:hyperglycemia	drug-disease
+db01229	dis:myocardial infarction	drug-disease
+db00759	dis:nausea	drug-disease
+db00514	dis:disorders of excessive somnolence	drug-disease
+db00368	dis:amnesia	drug-disease
+db01211	dis:cholestasis	drug-disease
+db00624	dis:prenatal exposure delayed effects	drug-disease
+db00997	dis:atrial fibrillation	drug-disease
+db01224	dis:sleep initiation and maintenance disorders	drug-disease
+db00482	dis:multiple myeloma	drug-disease
+db01104	dis:erectile dysfunction	drug-disease
+db01118	dis:liver failure	drug-disease
+db00915	dis:dizziness	drug-disease
+db00741	dis:edema	drug-disease
+db00470	dis:pain	drug-disease
+db00819	dis:hypoxia	drug-disease
+db00861	dis:fever	drug-disease
+db00968	dis:pleural effusion	drug-disease
+db00542	dis:glucose intolerance	drug-disease
+db00959	dis:ascites	drug-disease
+db00934	dis:catatonia	drug-disease
+db00570	dis:drug hypersensitivity	drug-disease
+db00564	dis:hallucinations	drug-disease
+db00586	dis:fatty liver	drug-disease
+db00280	dis:bundle-branch block	drug-disease
+db00997	dis:cardiotoxicity	drug-disease
+db00227	dis:acute kidney injury	drug-disease
+db00834	dis:unconsciousness	drug-disease
+db00584	dis:ascites	drug-disease
+db00396	dis:anorexia	drug-disease
+db00541	dis:heart diseases	drug-disease
+db00696	dis:venous thrombosis	drug-disease
+db00328	dis:premature birth	drug-disease
+db01098	dis:hepatitis	drug-disease
+db00907	dis:kidney diseases	drug-disease
+db01174	dis:urinary bladder diseases	drug-disease
+db01327	dis:carcinoma transitional cell	drug-disease
+db00661	dis:atrial fibrillation	drug-disease
+db00813	dis:psychomotor agitation	drug-disease
+db01118	dis:fever	drug-disease
+db00834	dis:neurodegenerative diseases	drug-disease
+db00328	dis:proteinuria	drug-disease
+db00363	dis:dystonia	drug-disease
+db00637	dis:ventricular dysfunction	drug-disease
+db00656	dis:confusion	drug-disease
+db01026	dis:hepatomegaly	drug-disease
+db00254	dis:drug hypersensitivity	drug-disease
+db00227	dis:muscle weakness	drug-disease
+db00571	dis:heart block	drug-disease
+db00542	dis:hyperinsulinism	drug-disease
+db00554	dis:pancreatitis	drug-disease
+db00819	dis:acute kidney injury	drug-disease
+db04216	dis:obesity	drug-disease
+db00501	dis:chorea	drug-disease
+db01098	dis:hypertriglyceridemia	drug-disease
+db01097	dis:liver cirrhosis	drug-disease
+db00661	dis:atrioventricular block	drug-disease
+db00795	dis:pancreatitis	drug-disease
+db00441	dis:hyponatremia	drug-disease
+db00495	dis:hypertrophy left ventricular	drug-disease
+db00669	dis:arrhythmias cardiac	drug-disease
+db01393	dis:rhabdomyolysis	drug-disease
+db00441	dis:anemia hemolytic	drug-disease
+db00908	dis:hypotension orthostatic	drug-disease
+db00829	dis:lethargy	drug-disease
+db00390	dis:chemical and drug induced liver injury	drug-disease
+db00199	dis:psychoses substance-induced	drug-disease
+db00276	dis:stomatitis	drug-disease
+db00584	dis:glomerulonephritis	drug-disease
+db01183	dis:psychomotor disorders	drug-disease
+db00544	dis:drug-related side effects and adverse reactions	drug-disease
+db00199	dis:myasthenia gravis	drug-disease
+db00584	dis:hyperplasia	drug-disease
+db00755	dis:rhabdomyosarcoma	drug-disease
+db01065	dis:disorders of excessive somnolence	drug-disease
+db01115	dis:nausea	drug-disease
+db01132	dis:pulmonary edema	drug-disease
+db01104	dis:abdominal pain	drug-disease
+db01045	dis:sepsis	drug-disease
+db01577	dis:basal ganglia diseases	drug-disease
+db01095	dis:anorexia	drug-disease
+db00178	dis:angina pectoris	drug-disease
+db00734	dis:ataxia	drug-disease
+db00712	dis:exanthema	drug-disease
+db01212	dis:flushing	drug-disease
+db01645	dis:weight gain	drug-disease
+db00495	dis:red-cell aplasia pure	drug-disease
+db01045	dis:vasculitis	drug-disease
+db01174	dis:intracranial hemorrhages	drug-disease
+db00734	dis:pancreatitis	drug-disease
+db01645	dis:breast neoplasms	drug-disease
+db00669	dis:cerebral infarction	drug-disease
+db01229	dis:pain	drug-disease
+db01043	dis:memory disorders	drug-disease
+db01035	dis:deglutition disorders	drug-disease
+db00458	dis:myocarditis	drug-disease
+db00316	dis:lung diseases	drug-disease
+db00328	dis:urticaria	drug-disease
+db00122	dis:non-alcoholic fatty liver disease	drug-disease
+db00819	dis:delirium	drug-disease
+db00741	dis:rhabdomyolysis	drug-disease
+db00966	dis:brain ischemia	drug-disease
+db01183	dis:pruritus	drug-disease
+db00537	dis:peritonitis	drug-disease
+db00285	dis:hyperkinesis	drug-disease
+db00788	dis:gastrointestinal diseases	drug-disease
+db00966	dis:vascular diseases	drug-disease
+db00441	dis:anemia	drug-disease
+db00973	dis:muscular diseases	drug-disease
+db00280	dis:atrial fibrillation	drug-disease
+db00627	dis:cardiovascular diseases	drug-disease
+db00790	dis:angioedema	drug-disease
+db01050	dis:urticaria	drug-disease
+db00563	dis:status epilepticus	drug-disease
+db00495	dis:myelodysplastic syndromes	drug-disease
+db01235	dis:torticollis	drug-disease
+db00537	dis:vasculitis	drug-disease
+db00554	dis:gastrointestinal diseases	drug-disease
+db00554	dis:myocardial infarction	drug-disease
+db01183	dis:vomiting	drug-disease
+db00678	dis:kidney failure chronic	drug-disease
+db00968	dis:seizures	drug-disease
+db01200	dis:coronary vasospasm	drug-disease
+db01200	dis:hypertension	drug-disease
+db01234	dis:thrombosis	drug-disease
+db00594	dis:colitis	drug-disease
+db00987	dis:muscle weakness	drug-disease
+db00215	dis:hallucinations	drug-disease
+db00242	dis:multiple sclerosis	drug-disease
+db00712	dis:urticaria	drug-disease
+db01009	dis:urticaria	drug-disease
+db00734	dis:dementia	drug-disease
+db01045	dis:thrombocytopenia	drug-disease
+db01229	dis:hematologic diseases	drug-disease
+db00446	dis:anemia	drug-disease
+db00813	dis:long qt syndrome	drug-disease
+db00661	dis:hypotension	drug-disease
+db00458	dis:hypertension	drug-disease
+db00382	dis:necrosis	drug-disease
+db00860	dis:hyperthyroidism	drug-disease
+db00675	dis:arterial occlusive diseases	drug-disease
+db00495	dis:stomach diseases	drug-disease
+db00227	dis:kidney diseases	drug-disease
+db00690	dis:chemical and drug induced liver injury	drug-disease
+db01167	dis:hypokalemia	drug-disease
+db00502	dis:disorders of excessive somnolence	drug-disease
+db00254	dis:cardiomegaly	drug-disease
+db01396	dis:neurotoxicity syndromes	drug-disease
+db00945	dis:obstetric labor premature	drug-disease
+db00500	dis:anemia hemolytic autoimmune	drug-disease
+db00959	dis:brain infarction	drug-disease
+db01248	dis:cerebral infarction	drug-disease
+db00987	dis:hyperplasia	drug-disease
+db01244	dis:arrhythmias cardiac	drug-disease
+db00683	dis:dystonic disorders	drug-disease
+db00313	dis:lupus erythematosus systemic	drug-disease
+db00959	dis:weight gain	drug-disease
+db00158	dis:prenatal injuries	drug-disease
+db00500	dis:proteinuria	drug-disease
+db01118	dis:stevens-johnson syndrome	drug-disease
+db01132	dis:hyperlipidemias	drug-disease
+db00571	dis:atrioventricular block	drug-disease
+db01221	dis:mucositis	drug-disease
+db00834	dis:carcinoma	drug-disease
+db00468	dis:disseminated intravascular coagulation	drug-disease
+db00997	dis:cystitis	drug-disease
+db00343	dis:hypertension	drug-disease
+db01242	dis:stupor	drug-disease
+db00333	dis:chorea	drug-disease
+db00814	dis:stomach ulcer	drug-disease
+db00285	dis:nausea	drug-disease
+db01076	dis:disseminated intravascular coagulation	drug-disease
+db00790	dis:myocardial infarction	drug-disease
+db00788	dis:spasm	drug-disease
+db00860	dis:dizziness	drug-disease
+db00458	dis:xerostomia	drug-disease
+db00575	dis:delirium	drug-disease
+db00184	dis:neurobehavioral manifestations	drug-disease
+db01054	dis:cardiomegaly	drug-disease
+db00915	dis:myoclonus	drug-disease
+db00468	dis:vasculitis	drug-disease
+db00176	dis:basal ganglia diseases	drug-disease
+db00661	dis:edema	drug-disease
+db00695	dis:lethargy	drug-disease
+db00257	dis:lung neoplasms	drug-disease
+db00860	dis:sepsis	drug-disease
+db00441	dis:chest pain	drug-disease
+db01577	dis:retinal diseases	drug-disease
+db00571	dis:paresthesia	drug-disease
+db00860	dis:myelodysplastic syndromes	drug-disease
+db00441	dis:pulmonary edema	drug-disease
+db00501	dis:psychoses substance-induced	drug-disease
+db00627	dis:syncope	drug-disease
+db00690	dis:seizures	drug-disease
+db00921	dis:seizures	drug-disease
+db00860	dis:liver failure	drug-disease
+db01151	dis:ataxia	drug-disease
+db01183	dis:dizziness	drug-disease
+db00668	dis:ventricular dysfunction left	drug-disease
+db03128	dis:coronary vasospasm	drug-disease
+db00834	dis:hypokalemia	drug-disease
+db00197	dis:neovascularization pathologic	drug-disease
+db00421	dis:vascular diseases	drug-disease
+db01026	dis:fatty liver	drug-disease
+db00184	dis:hypertriglyceridemia	drug-disease
+db00363	dis:myelodysplastic syndromes	drug-disease
+db00343	dis:arrhythmias cardiac	drug-disease
+db01229	dis:constipation	drug-disease
+db00321	dis:hypotension	drug-disease
+db00690	dis:memory disorders	drug-disease
+db00619	dis:mesothelioma	drug-disease
+db00907	dis:postoperative complications	drug-disease
+db04557	dis:necrosis	drug-disease
+db00373	dis:raynaud disease	drug-disease
+db00471	dis:chemical and drug induced liver injury	drug-disease
+db00182	dis:dystonia	drug-disease
+db00694	dis:paresthesia	drug-disease
+db00695	dis:thrombocytopenia	drug-disease
+db00333	dis:bradycardia	drug-disease
+db00695	dis:coronary artery disease	drug-disease
+db00570	dis:pain	drug-disease
+db00201	dis:syncope	drug-disease
+db00563	dis:neurotoxicity syndromes	drug-disease
+db00661	dis:gastrointestinal hemorrhage	drug-disease
+db00328	dis:hyperalgesia	drug-disease
+db01026	dis:anaphylaxis	drug-disease
+db00619	dis:abnormalities multiple	drug-disease
+db00316	dis:anemia hemolytic	drug-disease
+db00907	dis:hypertrophy left ventricular	drug-disease
+db00627	dis:erythema	drug-disease
+db01241	dis:chemical and drug induced liver injury	drug-disease
+db00555	dis:disseminated intravascular coagulation	drug-disease
+db00586	dis:cardiomyopathies	drug-disease
+db01234	dis:thromboembolism	drug-disease
+db00477	dis:akathisia drug-induced	drug-disease
+db00390	dis:tachycardia supraventricular	drug-disease
+db00201	dis:abnormalities multiple	drug-disease
+db01183	dis:necrosis	drug-disease
+db00252	dis:liver failure	drug-disease
+db00363	dis:dyslipidemias	drug-disease
+db00627	dis:insulin resistance	drug-disease
+db00688	dis:pruritus	drug-disease
+db00477	dis:insulin resistance	drug-disease
+db04557	dis:cardiovascular diseases	drug-disease
+db00773	dis:asthenia	drug-disease
+db00495	dis:liver failure	drug-disease
+db00321	dis:hepatic encephalopathy	drug-disease
+db00334	dis:dysphonia	drug-disease
+db00860	dis:mononeuropathies	drug-disease
+db01242	dis:psychomotor agitation	drug-disease
+db00819	dis:cerebral hemorrhage	drug-disease
+db00783	dis:liver diseases	drug-disease
+db00328	dis:leukopenia	drug-disease
+db00361	dis:pancreatic neoplasms	drug-disease
+db00537	dis:chemical and drug induced liver injury	drug-disease
+db01032	dis:drug-related side effects and adverse reactions	drug-disease
+db00563	dis:hematologic diseases	drug-disease
+db00811	dis:retinal diseases	drug-disease
+db00624	dis:status epilepticus	drug-disease
+db00656	dis:jaundice obstructive	drug-disease
+db00390	dis:dizziness	drug-disease
+db00313	dis:muscular diseases	drug-disease
+db00675	dis:urinary bladder diseases	drug-disease
+db01032	dis:acute kidney injury	drug-disease
+db00755	dis:bone marrow diseases	drug-disease
+db00227	dis:paresthesia	drug-disease
+db01032	dis:red-cell aplasia pure	drug-disease
+db01050	dis:nephrosclerosis	drug-disease
+db00675	dis:venous thromboembolism	drug-disease
+db00501	dis:atrial fibrillation	drug-disease
+db00477	dis:delirium	drug-disease
+db01229	dis:vision disorders	drug-disease
+db01009	dis:kidney diseases	drug-disease
+db00264	dis:hypertrophy left ventricular	drug-disease
+db00363	dis:myocarditis	drug-disease
+db01132	dis:edema	drug-disease
+db00554	dis:osteoarthritis	drug-disease
+db00206	dis:memory disorders	drug-disease
+db01229	dis:gait disorders neurologic	drug-disease
+db00755	dis:edema	drug-disease
+db01204	dis:alopecia	drug-disease
+db00563	dis:vomiting	drug-disease
+db00668	dis:cerebral infarction	drug-disease
+db01115	dis:purpura schoenlein-henoch	drug-disease
+db00158	dis:diabetes mellitus type 2	drug-disease
+db00227	dis:sleep initiation and maintenance disorders	drug-disease
+db01009	dis:central nervous system diseases	drug-disease
+db00688	dis:heart defects congenital	drug-disease
+db03783	dis:vascular diseases	drug-disease
+db00320	dis:coronary artery disease	drug-disease
+db00675	dis:non-alcoholic fatty liver disease	drug-disease
+db01075	dis:sleep initiation and maintenance disorders	drug-disease
+db04557	dis:fever	drug-disease
+db00537	dis:tremor	drug-disease
+db00584	dis:necrosis	drug-disease
+db00863	dis:abdominal pain	drug-disease
+db00554	dis:mesothelioma	drug-disease
+db00441	dis:lung neoplasms	drug-disease
+db00477	dis:ocular motility disorders	drug-disease
+db00313	dis:confusion	drug-disease
+db01167	dis:delirium	drug-disease
+db00502	dis:psychoses substance-induced	drug-disease
+db00544	dis:spasm	drug-disease
+db00715	dis:psychomotor agitation	drug-disease
+db00695	dis:nocturnal enuresis	drug-disease
+db00688	dis:myasthenia gravis	drug-disease
+db00715	dis:paresthesia	drug-disease
+db00390	dis:heart failure	drug-disease
+db00158	dis:cerebellar ataxia	drug-disease
+db00608	dis:dystonia	drug-disease
+db00184	dis:colitis	drug-disease
+db00201	dis:hypokalemia	drug-disease
+db03128	dis:hypotension	drug-disease
+db01151	dis:tremor	drug-disease
+db00252	dis:limb deformities congenital	drug-disease
+db00477	dis:pruritus	drug-disease
+db00755	dis:arthritis experimental	drug-disease
+db00555	dis:delirium	drug-disease
+db00661	dis:seizures	drug-disease
+db00401	dis:intestinal diseases	drug-disease
+db00252	dis:proteinuria	drug-disease
+db00495	dis:heart failure	drug-disease
+db00344	dis:tremor	drug-disease
+db00277	dis:heart defects congenital	drug-disease
+db01065	dis:fibrosis	drug-disease
+db00184	dis:peripheral vascular diseases	drug-disease
+db00795	dis:central nervous system diseases	drug-disease
+db00470	dis:tachycardia	drug-disease
+db00502	dis:substance withdrawal syndrome	drug-disease
+db01229	dis:pruritus	drug-disease
+db00457	dis:ventricular dysfunction	drug-disease
+db00863	dis:stevens-johnson syndrome	drug-disease
+db00544	dis:carcinoma squamous cell	drug-disease
+db00704	dis:abdominal pain	drug-disease
+db00836	dis:unconsciousness	drug-disease
+db01174	dis:dermatitis exfoliative	drug-disease
+db00741	dis:urticaria	drug-disease
+db00755	dis:pericardial effusion	drug-disease
+db00675	dis:tremor	drug-disease
+db00788	dis:gastrointestinal hemorrhage	drug-disease
+db00457	dis:headache	drug-disease
+db00197	dis:inflammation	drug-disease
+db00358	dis:anemia aplastic	drug-disease
+db00451	dis:atrial fibrillation	drug-disease
+db00694	dis:bone diseases	drug-disease
+db04216	dis:liver neoplasms	drug-disease
+db00586	dis:glomerulonephritis	drug-disease
+db00788	dis:drug-related side effects and adverse reactions	drug-disease
+db00586	dis:arthritis	drug-disease
+db00590	dis:urinary retention	drug-disease
+db00321	dis:heart arrest	drug-disease
+db00668	dis:hypokalemia	drug-disease
+db00184	dis:long qt syndrome	drug-disease
+db01035	dis:atrioventricular block	drug-disease
+db01229	dis:constriction pathologic	drug-disease
+db00333	dis:cerebrovascular disorders	drug-disease
+db00555	dis:liver failure acute	drug-disease
+db00997	dis:agranulocytosis	drug-disease
+db00959	dis:cardiomegaly	drug-disease
+db00472	dis:pheochromocytoma	drug-disease
+db00184	dis:pruritus	drug-disease
+db00313	dis:neurodegenerative diseases	drug-disease
+db00412	dis:liver diseases	drug-disease
+db00215	dis:muscle hypotonia	drug-disease
+db00571	dis:respiratory insufficiency	drug-disease
+db00242	dis:atrioventricular block	drug-disease
+db00564	dis:photosensitivity disorders	drug-disease
+db00882	dis:myocardial infarction	drug-disease
+db01586	dis:cholestasis	drug-disease
+db01242	dis:acidosis	drug-disease
+db00860	dis:sleep initiation and maintenance disorders	drug-disease
+db01182	dis:cholestasis	drug-disease
+db00860	dis:asthma	drug-disease
+db00201	dis:lymphatic diseases	drug-disease
+db00333	dis:serotonin syndrome	drug-disease
+db00206	dis:myocardial infarction	drug-disease
+db00437	dis:heart diseases	drug-disease
+db01118	dis:olfaction disorders	drug-disease
+db00829	dis:neonatal abstinence syndrome	drug-disease
+db00656	dis:delirium	drug-disease
+db01174	dis:heart failure	drug-disease
+db01136	dis:albuminuria	drug-disease
+db00586	dis:seizures	drug-disease
+db00564	dis:liver failure	drug-disease
+db00623	dis:catatonia	drug-disease
+db01045	dis:urticaria	drug-disease
+db01035	dis:delirium	drug-disease
+db01645	dis:lung neoplasms	drug-disease
+db00390	dis:neoplasms	drug-disease
+db00637	dis:torsades de pointes	drug-disease
+db00672	dis:hyponatremia	drug-disease
+db00215	dis:dizziness	drug-disease
+db00907	dis:lupus erythematosus systemic	drug-disease
+db01104	dis:arrhythmias cardiac	drug-disease
+db00197	dis:colonic neoplasms	drug-disease
+db00813	dis:heart arrest	drug-disease
+db00368	dis:pain	drug-disease
+db01054	dis:lupus erythematosus cutaneous	drug-disease
+db00907	dis:peripheral vascular diseases	drug-disease
+db00500	dis:inflammation	drug-disease
+db01065	dis:adenoma	drug-disease
+db01234	dis:ocular hypertension	drug-disease
+db01204	dis:drug eruptions	drug-disease
+db00795	dis:bone marrow diseases	drug-disease
+db00445	dis:thrombophlebitis	drug-disease
+db00252	dis:liver failure acute	drug-disease
+db00987	dis:posterior leukoencephalopathy syndrome	drug-disease
+db01229	dis:glioma	drug-disease
+db00758	dis:vomiting	drug-disease
+db01069	dis:disorders of excessive somnolence	drug-disease
+db01043	dis:muscle spasticity	drug-disease
+db01165	dis:long qt syndrome	drug-disease
+db00661	dis:sick sinus syndrome	drug-disease
+db00333	dis:pain postoperative	drug-disease
+db00328	dis:vomiting	drug-disease
+db00182	dis:paresis	drug-disease
+db00458	dis:basal ganglia diseases	drug-disease
+db01393	dis:hypertriglyceridemia	drug-disease
+db01167	dis:dyspepsia	drug-disease
+db00321	dis:tremor	drug-disease
+db00783	dis:kidney neoplasms	drug-disease
+db01184	dis:central nervous system diseases	drug-disease
+db00987	dis:sinoatrial block	drug-disease
+db00254	dis:muscle cramp	drug-disease
+db00641	dis:ataxia	drug-disease
+db00758	dis:drug hypersensitivity	drug-disease
+db00988	dis:acute kidney injury	drug-disease
+db00788	dis:kidney papillary necrosis	drug-disease
+db00656	dis:obesity	drug-disease
+db00252	dis:acute kidney injury	drug-disease
+db00968	dis:prenatal exposure delayed effects	drug-disease
+db01254	dis:breast neoplasms	drug-disease
+db00313	dis:hepatitis	drug-disease
+db00584	dis:dizziness	drug-disease
+db00201	dis:hypertension malignant	drug-disease
+db00783	dis:carcinoma hepatocellular	drug-disease
+db01075	dis:delirium	drug-disease
+db01234	dis:deafness	drug-disease
+db00968	dis:sleep wake disorders	drug-disease
+db00490	dis:movement disorders	drug-disease
+db00734	dis:chemical and drug induced liver injury	drug-disease
+db00656	dis:muscular diseases	drug-disease
+db00668	dis:disseminated intravascular coagulation	drug-disease
+db00316	dis:carcinoma hepatocellular	drug-disease
+db00773	dis:prostatic neoplasms	drug-disease
+db00635	dis:cerebrovascular disorders	drug-disease
+db00342	dis:ventricular fibrillation	drug-disease
+db00501	dis:hyperglycemia	drug-disease
+db01234	dis:memory disorders	drug-disease
+db00887	dis:myocardial ischemia	drug-disease
+db00571	dis:liver cirrhosis	drug-disease
+db00197	dis:glomerulonephritis	drug-disease
+db00694	dis:necrosis	drug-disease
+db01075	dis:liver failure acute	drug-disease
+db00860	dis:neuromuscular diseases	drug-disease
+db00206	dis:fatigue	drug-disease
+db00783	dis:kidney diseases	drug-disease
+db01204	dis:prostatic neoplasms	drug-disease
+db00570	dis:breast neoplasms	drug-disease
+db01200	dis:gastrointestinal diseases	drug-disease
+db00477	dis:seizures	drug-disease
+db00445	dis:fever	drug-disease
+db00575	dis:cerebrovascular disorders	drug-disease
+db00441	dis:dyspnea	drug-disease
+db00541	dis:neuromuscular diseases	drug-disease
+db00472	dis:brain diseases	drug-disease
+db01396	dis:reflex abnormal	drug-disease
+db01050	dis:cholestasis	drug-disease
+db01211	dis:dizziness	drug-disease
+db00810	dis:parkinson disease secondary	drug-disease
+db00773	dis:fever	drug-disease
+db00668	dis:brain ischemia	drug-disease
+db00563	dis:meningitis	drug-disease
+db00177	dis:headache	drug-disease
+db00640	dis:tachycardia	drug-disease
+db01234	dis:precursor cell lymphoblastic leukemia-lymphoma	drug-disease
+db01110	dis:anaphylaxis	drug-disease
+db00421	dis:stevens-johnson syndrome	drug-disease
+db00584	dis:jaundice obstructive	drug-disease
+db00987	dis:epilepsy	drug-disease
+db00328	dis:urinary bladder diseases	drug-disease
+db00468	dis:syncope	drug-disease
+db01092	dis:drug-related side effects and adverse reactions	drug-disease
+db01059	dis:drug hypersensitivity	drug-disease
+db00571	dis:myocardial infarction	drug-disease
+db00563	dis:inflammation	drug-disease
+db00333	dis:heroin dependence	drug-disease
+db00363	dis:sleep wake disorders	drug-disease
+db00619	dis:liver failure acute	drug-disease
+db00622	dis:asthenia	drug-disease
+db00501	dis:anemia	drug-disease
+db00495	dis:vascular diseases	drug-disease
+db00907	dis:nephritis interstitial	drug-disease
+db00343	dis:abdominal pain	drug-disease
+db01212	dis:cholestasis	drug-disease
+db00343	dis:drug-related side effects and adverse reactions	drug-disease
+db01229	dis:lung diseases interstitial	drug-disease
+db00640	dis:tachycardia ventricular	drug-disease
+db00997	dis:peripheral vascular diseases	drug-disease
+db00280	dis:hypoglycemia	drug-disease
+db00563	dis:hemorrhage	drug-disease
+db00390	dis:cardiomegaly	drug-disease
+db00482	dis:asthenia	drug-disease
+db01065	dis:liver diseases	drug-disease
+db00814	dis:stevens-johnson syndrome	drug-disease
+db00959	dis:hearing loss bilateral	drug-disease
+db00795	dis:photophobia	drug-disease
+db01221	dis:lethargy	drug-disease
+db00252	dis:paresthesia	drug-disease
+db00264	dis:kidney diseases	drug-disease
+db01104	dis:serotonin syndrome	drug-disease
+db00537	dis:purpura schoenlein-henoch	drug-disease
+db00997	dis:neoplasms experimental	drug-disease
+db00317	dis:lung injury	drug-disease
+db00281	dis:olfaction disorders	drug-disease
+db00635	dis:headache	drug-disease
+db00564	dis:jaundice	drug-disease
+db00544	dis:stomach diseases	drug-disease
+db00470	dis:learning disorders	drug-disease
+db00945	dis:deafness	drug-disease
+db01097	dis:pancytopenia	drug-disease
+db00343	dis:atrial fibrillation	drug-disease
+db00624	dis:cocaine-related disorders	drug-disease
+db00586	dis:dyspepsia	drug-disease
+db00661	dis:hypoxia	drug-disease
+db00661	dis:heart diseases	drug-disease
+db00333	dis:hyperkinesis	drug-disease
+db04216	dis:glioma	drug-disease
+db00316	dis:churg-strauss syndrome	drug-disease
+db01011	dis:learning disorders	drug-disease
+db01075	dis:poisoning	drug-disease
+db00704	dis:hallucinations	drug-disease
+db00280	dis:cholestasis	drug-disease
+db00594	dis:pain	drug-disease
+db00908	dis:long qt syndrome	drug-disease
+db00968	dis:agranulocytosis	drug-disease
+db00559	dis:hypercholesterolemia	drug-disease
+db00457	dis:seizures	drug-disease
+db00514	dis:neurobehavioral manifestations	drug-disease
+db00734	dis:erectile dysfunction	drug-disease
+db00915	dis:constipation	drug-disease
+db00328	dis:headache	drug-disease
+db00542	dis:fibrosis	drug-disease
+db01075	dis:drug overdose	drug-disease
+db00502	dis:stomach diseases	drug-disease
+db00860	dis:papilledema	drug-disease
+db01393	dis:hyperinsulinism	drug-disease
+db01577	dis:ventricular premature complexes	drug-disease
+db00819	dis:paresthesia	drug-disease
+db01098	dis:albuminuria	drug-disease
+db00563	dis:splenomegaly	drug-disease
+db00945	dis:purpura schoenlein-henoch	drug-disease
+db00477	dis:psychomotor agitation	drug-disease
+db00860	dis:obesity	drug-disease
+db01132	dis:glucose intolerance	drug-disease
+db00571	dis:muscular diseases	drug-disease
+db00321	dis:hypothermia	drug-disease
+db01065	dis:colitis	drug-disease
+db00437	dis:gastrointestinal diseases	drug-disease
+db01183	dis:respiratory insufficiency	drug-disease
+db01212	dis:acute kidney injury	drug-disease
+db00602	dis:confusion	drug-disease
+db00412	dis:diabetes mellitus type 2	drug-disease
+db00334	dis:myoglobinuria	drug-disease
+db00575	dis:drug overdose	drug-disease
+db00829	dis:hypoxia	drug-disease
+db00428	dis:acute kidney injury	drug-disease
+db01200	dis:confusion	drug-disease
+db00959	dis:brain diseases metabolic	drug-disease
+db01050	dis:cystic fibrosis	drug-disease
+db04216	dis:ovarian neoplasms	drug-disease
+db00428	dis:atherosclerosis	drug-disease
+db00734	dis:hematuria	drug-disease
+db00477	dis:edema	drug-disease
+db00788	dis:mucositis	drug-disease
+db00277	dis:respiration disorders	drug-disease
+db00635	dis:lymphoma large b-cell diffuse	drug-disease
+db04557	dis:flushing	drug-disease
+db00368	dis:dyskinesia drug-induced	drug-disease
+db01115	dis:lethargy	drug-disease
+db00640	dis:epilepsy tonic-clonic	drug-disease
+db01165	dis:tremor	drug-disease
+db00863	dis:jaundice	drug-disease
+db00688	dis:anemia hemolytic autoimmune	drug-disease
+db00421	dis:hepatitis	drug-disease
+db00390	dis:memory disorders	drug-disease
+db00675	dis:heart diseases	drug-disease
+db01224	dis:somnambulism	drug-disease
+db01050	dis:anemia hemolytic autoimmune	drug-disease
+db00412	dis:insulin resistance	drug-disease
+db01394	dis:rhabdomyolysis	drug-disease
+db00741	dis:neutropenia	drug-disease
+db00313	dis:growth disorders	drug-disease
+db00437	dis:exanthema	drug-disease
+db01204	dis:diarrhea	drug-disease
+db00987	dis:leukemia myelogenous chronic bcr-abl positive	drug-disease
+db00343	dis:diarrhea	drug-disease
+db01182	dis:arrhythmias cardiac	drug-disease
+db00915	dis:peripheral nervous system diseases	drug-disease
+db00635	dis:fever	drug-disease
+db00584	dis:pulmonary fibrosis	drug-disease
+db00675	dis:lung neoplasms	drug-disease
+db01184	dis:pain	drug-disease
+db00544	dis:kidney neoplasms	drug-disease
+db00277	dis:myocardial ischemia	drug-disease
+db00472	dis:psychoses substance-induced	drug-disease
+db00178	dis:vascular diseases	drug-disease
+db00672	dis:red-cell aplasia pure	drug-disease
+db00641	dis:hypertension	drug-disease
+db00544	dis:anorexia	drug-disease
+db01118	dis:necrosis	drug-disease
+db00715	dis:hyperalgesia	drug-disease
+db00501	dis:neuromuscular diseases	drug-disease
+db00968	dis:galactorrhea	drug-disease
+db01032	dis:parkinson disease	drug-disease
+db00563	dis:nystagmus pathologic	drug-disease
+db01118	dis:azotemia	drug-disease
+db00959	dis:hypokalemia	drug-disease
+db00544	dis:leukoencephalopathies	drug-disease
+db00472	dis:ataxia	drug-disease
+db01221	dis:headache	drug-disease
+db00668	dis:paralysis	drug-disease
+db00945	dis:dyspnea	drug-disease
+db00197	dis:renal insufficiency	drug-disease
+db00472	dis:hypothermia	drug-disease
+db01132	dis:colonic neoplasms	drug-disease
+db00819	dis:urticaria	drug-disease
+db01076	dis:atrioventricular block	drug-disease
+db01229	dis:neoplasms experimental	drug-disease
+db01183	dis:hyperemia	drug-disease
+db00255	dis:chemical and drug induced liver injury	drug-disease
+db00696	dis:reflex sympathetic dystrophy	drug-disease
+db00390	dis:drug-related side effects and adverse reactions	drug-disease
+db00914	dis:blindness	drug-disease
+db01009	dis:stevens-johnson syndrome	drug-disease
+db00861	dis:hepatomegaly	drug-disease
+db00458	dis:sleep initiation and maintenance disorders	drug-disease
+db00199	dis:movement disorders	drug-disease
+db00945	dis:brain ischemia	drug-disease
+db01248	dis:urinary bladder neoplasms	drug-disease
+db00500	dis:urticaria	drug-disease
+db00997	dis:weight loss	drug-disease
+db00605	dis:jaundice	drug-disease
+db00966	dis:hypotension	drug-disease
+db00759	dis:muscular atrophy	drug-disease
+db00313	dis:alopecia	drug-disease
+db01244	dis:torsades de pointes	drug-disease
+db01009	dis:asthma	drug-disease
+db00959	dis:fatty liver	drug-disease
+db01221	dis:paresthesia	drug-disease
+db00755	dis:brain diseases	drug-disease
+db01104	dis:urinary incontinence	drug-disease
+db00490	dis:confusion	drug-disease
+db00678	dis:hypotension orthostatic	drug-disease
+db01115	dis:hypotension	drug-disease
+db00334	dis:metabolic syndrome	drug-disease
+db00749	dis:osteoarthritis	drug-disease
+db00544	dis:hypertension	drug-disease
+db00295	dis:stupor	drug-disease
+db00280	dis:tachycardia ventricular	drug-disease
+db00917	dis:stomach ulcer	drug-disease
+db00177	dis:long qt syndrome	drug-disease
+db01118	dis:fibrosis	drug-disease
+db01075	dis:dystonic disorders	drug-disease
+db00945	dis:renal insufficiency	drug-disease
+db00678	dis:myocardial infarction	drug-disease
+db00255	dis:learning disorders	drug-disease
+db00688	dis:nausea	drug-disease
+db00421	dis:hypoxia	drug-disease
+db00373	dis:heart arrest	drug-disease
+db00398	dis:exanthema	drug-disease
+db00683	dis:deglutition disorders	drug-disease
+db03128	dis:paralysis	drug-disease
+db00390	dis:dementia	drug-disease
+db01065	dis:fatty liver	drug-disease
+db00586	dis:hepatomegaly	drug-disease
+db00178	dis:urticaria	drug-disease
+db00390	dis:nystagmus pathologic	drug-disease
+db00813	dis:myocardial ischemia	drug-disease
+db00519	dis:reperfusion injury	drug-disease
+db00811	dis:nephrotic syndrome	drug-disease
+db00333	dis:erectile dysfunction	drug-disease
+db01115	dis:liver diseases	drug-disease
+db00715	dis:priapism	drug-disease
+db00441	dis:breast neoplasms	drug-disease
+db00343	dis:liver cirrhosis	drug-disease
+db00907	dis:vomiting	drug-disease
+db00829	dis:liver neoplasms experimental	drug-disease
+db01229	dis:skin neoplasms	drug-disease
+db00428	dis:uremia	drug-disease
+db00829	dis:hyperalgesia	drug-disease
+db00316	dis:asthma	drug-disease
+db01114	dis:pruritus	drug-disease
+db00295	dis:hypesthesia	drug-disease
+db00959	dis:bile duct diseases	drug-disease
+db00201	dis:kidney tubular necrosis acute	drug-disease
+db00541	dis:pain	drug-disease
+db00321	dis:serotonin syndrome	drug-disease
+db00635	dis:inflammation	drug-disease
+db04216	dis:ventricular dysfunction left	drug-disease
+db00668	dis:ocular hypertension	drug-disease
+db00925	dis:necrosis	drug-disease
+db00313	dis:fetal diseases	drug-disease
+db00788	dis:cholangitis	drug-disease
+db01235	dis:heart failure	drug-disease
+db01235	dis:disorders of excessive somnolence	drug-disease
+db00544	dis:lung neoplasms	drug-disease
+db00445	dis:tachycardia	drug-disease
+db00966	dis:diarrhea	drug-disease
+db00564	dis:granuloma	drug-disease
+db04216	dis:glioblastoma	drug-disease
+db00945	dis:vascular diseases	drug-disease
+db00563	dis:head and neck neoplasms	drug-disease
+db01577	dis:shock cardiogenic	drug-disease
+db00472	dis:cardiovascular diseases	drug-disease
+db00968	dis:headache	drug-disease
+db00813	dis:hypertension pulmonary	drug-disease
+db04216	dis:neurodegenerative diseases	drug-disease
+db00755	dis:fever	drug-disease
+db01394	dis:seizures	drug-disease
+db00813	dis:substance withdrawal syndrome	drug-disease
+db00396	dis:pregnancy complications	drug-disease
+db01393	dis:fibrosis	drug-disease
+db00158	dis:stomach neoplasms	drug-disease
+db00997	dis:death sudden cardiac	drug-disease
+db00584	dis:obesity	drug-disease
+db00608	dis:bundle-branch block	drug-disease
+db00501	dis:urticaria	drug-disease
+db00328	dis:ascites	drug-disease
+db00175	dis:headache	drug-disease
+db00950	dis:syncope	drug-disease
+db01054	dis:nephrosclerosis	drug-disease
+db01045	dis:gastrointestinal diseases	drug-disease
+db01103	dis:chemical and drug induced liver injury	drug-disease
+db00788	dis:pain postoperative	drug-disease
+db01577	dis:cataract	drug-disease
+db00668	dis:death sudden	drug-disease
+db00215	dis:akathisia drug-induced	drug-disease
+db00541	dis:lymphoma	drug-disease
+db00445	dis:erythema	drug-disease
+db01174	dis:torticollis	drug-disease
+db00608	dis:nausea	drug-disease
+db00755	dis:neutropenia	drug-disease
+db00280	dis:heart diseases	drug-disease
+db01174	dis:exanthema	drug-disease
+db00635	dis:kidney papillary necrosis	drug-disease
+db01221	dis:arrhythmias cardiac	drug-disease
+db01645	dis:oligospermia	drug-disease
+db01050	dis:hemolytic-uremic syndrome	drug-disease
+db01059	dis:cholestasis	drug-disease
+db00441	dis:abdominal pain	drug-disease
+db00175	dis:myoclonus	drug-disease
+db00382	dis:miosis	drug-disease
+db00184	dis:substance-related disorders	drug-disease
+db00783	dis:neoplasm invasiveness	drug-disease
+db00313	dis:jaundice obstructive	drug-disease
+db01050	dis:azotemia	drug-disease
+db00333	dis:hallucinations	drug-disease
+db01118	dis:rhabdomyolysis	drug-disease
+db00741	dis:heart failure	drug-disease
+db01132	dis:proteinuria	drug-disease
+db00328	dis:hemorrhage	drug-disease
+db00908	dis:paresis	drug-disease
+db00749	dis:stevens-johnson syndrome	drug-disease
+db00542	dis:endomyocardial fibrosis	drug-disease
+db00627	dis:gastrointestinal diseases	drug-disease
+db00541	dis:muscle weakness	drug-disease
+db01229	dis:central nervous system diseases	drug-disease
+db00458	dis:enuresis	drug-disease
+db01076	dis:kidney diseases	drug-disease
+db00875	dis:learning disorders	drug-disease
+db00252	dis:growth disorders	drug-disease
+db00877	dis:melanoma	drug-disease
+db00571	dis:disorders of excessive somnolence	drug-disease
+db00907	dis:paresthesia	drug-disease
+db04216	dis:prenatal exposure delayed effects	drug-disease
+db01050	dis:nephrotic syndrome	drug-disease
+db01069	dis:seizures	drug-disease
+db01229	dis:urinary bladder neoplasms	drug-disease
+db00495	dis:vision disorders	drug-disease
+db00501	dis:parkinson disease secondary	drug-disease
+db00563	dis:alopecia	drug-disease
+db00755	dis:nephritis interstitial	drug-disease
+db00959	dis:brain injuries	drug-disease
+db01577	dis:dizziness	drug-disease
+db00907	dis:learning disorders	drug-disease
+db00514	dis:serotonin syndrome	drug-disease
+db01045	dis:liver failure acute	drug-disease
+db00334	dis:weight gain	drug-disease
+db00656	dis:migraine disorders	drug-disease
+db00176	dis:tic disorders	drug-disease
+db01043	dis:pruritus	drug-disease
+db00959	dis:hypocalcemia	drug-disease
+db00514	dis:musculoskeletal diseases	drug-disease
+db00968	dis:drug-related side effects and adverse reactions	drug-disease
+db00819	dis:hyperammonemia	drug-disease
+db00501	dis:substance withdrawal syndrome	drug-disease
+db01248	dis:vomiting	drug-disease
+db00997	dis:lymphoma	drug-disease
+db00199	dis:rhabdomyolysis	drug-disease
+db00368	dis:hemorrhage	drug-disease
+db01118	dis:sinoatrial block	drug-disease
+db00544	dis:limb deformities congenital	drug-disease
+db00537	dis:purpura	drug-disease
+db00571	dis:catalepsy	drug-disease
+db00440	dis:anemia hemolytic	drug-disease
+db00863	dis:gynecomastia	drug-disease
+db00197	dis:thyroid neoplasms	drug-disease
+db00544	dis:angioedema	drug-disease
+db00795	dis:polyneuropathies	drug-disease
+db00563	dis:polyneuropathies	drug-disease
+db00959	dis:respiratory insufficiency	drug-disease
+db00182	dis:substance withdrawal syndrome	drug-disease
+db00542	dis:ventricular remodeling	drug-disease
+db01069	dis:heart arrest	drug-disease
+db00675	dis:necrosis	drug-disease
+db00564	dis:stevens-johnson syndrome	drug-disease
+db00158	dis:endometrial neoplasms	drug-disease
+db01076	dis:testicular diseases	drug-disease
+db00264	dis:angioedema	drug-disease
+db00627	dis:hypoglycemia	drug-disease
+db00482	dis:gout	drug-disease
+db00643	dis:chemical and drug induced liver injury	drug-disease
+db00495	dis:diarrhea	drug-disease
+db00575	dis:seizures	drug-disease
+db00477	dis:tremor	drug-disease
+db00541	dis:ataxia	drug-disease
+db00472	dis:muscle spasticity	drug-disease
+db00280	dis:jaundice obstructive	drug-disease
+db00457	dis:angina pectoris	drug-disease
+db00694	dis:diarrhea	drug-disease
+db00882	dis:sleep initiation and maintenance disorders	drug-disease
+db00564	dis:cleft palate	drug-disease
+db00342	dis:drug overdose	drug-disease
+db00281	dis:bradycardia	drug-disease
+db00987	dis:erythema nodosum	drug-disease
+db00812	dis:lupus erythematosus systemic	drug-disease
+db00623	dis:inappropriate adh syndrome	drug-disease
+db00358	dis:gait ataxia	drug-disease
+db00445	dis:phlebitis	drug-disease
+db00627	dis:cataract	drug-disease
+db00470	dis:brain edema	drug-disease
+db00541	dis:paresis	drug-disease
+db01577	dis:paresthesia	drug-disease
+db00482	dis:eosinophilia	drug-disease
+db00343	dis:long qt syndrome	drug-disease
+db00683	dis:drug-related side effects and adverse reactions	drug-disease
+db00741	dis:recurrence	drug-disease
+db01182	dis:ventricular dysfunction left	drug-disease
+db00201	dis:liver neoplasms experimental	drug-disease
+db01151	dis:bradycardia	drug-disease
+db00755	dis:liver diseases	drug-disease
+db00997	dis:brain neoplasms	drug-disease
+db00281	dis:anemia	drug-disease
+db00555	dis:chemical and drug induced liver injury	drug-disease
+db00627	dis:massive hepatic necrosis	drug-disease
+db01151	dis:anorexia	drug-disease
+db00925	dis:myoclonus	drug-disease
+db01221	dis:vomiting	drug-disease
+db00398	dis:diarrhea	drug-disease
+db00215	dis:parkinsonian disorders	drug-disease
+db01396	dis:carcinoma non-small-cell lung	drug-disease
+db00997	dis:asthenia	drug-disease
+db01136	dis:memory disorders	drug-disease
+db00215	dis:epilepsy	drug-disease
+db00158	dis:non-alcoholic fatty liver disease	drug-disease
+db00215	dis:nausea	drug-disease
+db00661	dis:angina pectoris	drug-disease
+db00917	dis:liver diseases	drug-disease
+db01118	dis:cardiomyopathy hypertrophic	drug-disease
+db00317	dis:adenocarcinoma	drug-disease
+db00987	dis:lung diseases	drug-disease
+db00468	dis:nephritis interstitial	drug-disease
+db01177	dis:cardiomyopathy dilated	drug-disease
+db00813	dis:dizziness	drug-disease
+db00788	dis:pain	drug-disease
+db00316	dis:hypertension	drug-disease
+db01065	dis:nystagmus pathologic	drug-disease
+db00959	dis:lupus erythematosus systemic	drug-disease
+db00316	dis:multiple organ failure	drug-disease
+db01396	dis:confusion	drug-disease
+db00563	dis:recurrence	drug-disease
+db01396	dis:cardiomyopathies	drug-disease
+db00966	dis:syncope	drug-disease
+db00605	dis:delirium	drug-disease
+db00829	dis:carcinoma transitional cell	drug-disease
+db00945	dis:cerebrovascular disorders	drug-disease
+db01234	dis:sleep wake disorders	drug-disease
+db01059	dis:hallucinations	drug-disease
+db00428	dis:thrombocytopenia	drug-disease
+db00482	dis:arthritis experimental	drug-disease
+db00959	dis:meningitis aseptic	drug-disease
+db01069	dis:postoperative complications	drug-disease
+db00502	dis:status epilepticus	drug-disease
+db00541	dis:confusion	drug-disease
+db00363	dis:urinary incontinence	drug-disease
+db00734	dis:cardiovascular diseases	drug-disease
+db00544	dis:hypotension	drug-disease
+db01229	dis:ventricular premature complexes	drug-disease
+db00819	dis:urinary incontinence	drug-disease
+db00945	dis:gastritis	drug-disease
+db01065	dis:endomyocardial fibrosis	drug-disease
+db00908	dis:arthritis	drug-disease
+db01248	dis:skin diseases	drug-disease
+db00945	dis:respiration disorders	drug-disease
+db01114	dis:vomiting	drug-disease
+db00252	dis:seizures	drug-disease
+db00252	dis:anemia aplastic	drug-disease
+db00334	dis:pruritus	drug-disease
+db00575	dis:autonomic nervous system diseases	drug-disease
+db00321	dis:jaundice	drug-disease
+db00695	dis:hearing disorders	drug-disease
+db00605	dis:kidney failure chronic	drug-disease
+db01065	dis:hyperlipidemias	drug-disease
+db00945	dis:adenoma	drug-disease
+db00773	dis:arrhythmias cardiac	drug-disease
+db00675	dis:uterine cervical neoplasms	drug-disease
+db00734	dis:hyperprolactinemia	drug-disease
+db00313	dis:muscle rigidity	drug-disease
+db00134	dis:seizures	drug-disease
+db00715	dis:pruritus	drug-disease
+db00412	dis:diabetic angiopathies	drug-disease
+db00921	dis:substance withdrawal syndrome	drug-disease
+db00443	dis:psoriasis	drug-disease
+db00542	dis:myocardial reperfusion injury	drug-disease
+db00277	dis:arrhythmias cardiac	drug-disease
+db00333	dis:substance-related disorders	drug-disease
+db00715	dis:epilepsy tonic-clonic	drug-disease
+db00907	dis:respiratory insufficiency	drug-disease
+db00695	dis:respiratory distress syndrome adult	drug-disease
+db00656	dis:sleep wake disorders	drug-disease
+db00741	dis:hyponatremia	drug-disease
+db00740	dis:nerve degeneration	drug-disease
+db01211	dis:sinusitis	drug-disease
+db00502	dis:galactorrhea	drug-disease
+db00541	dis:nausea	drug-disease
+db00917	dis:dyskinesia drug-induced	drug-disease
+db01104	dis:diabetes mellitus experimental	drug-disease
+db00715	dis:headache	drug-disease
+db00252	dis:dyskinesias	drug-disease
+db00641	dis:spinal cord injuries	drug-disease
+db00445	dis:thrombocytopenia	drug-disease
+db01167	dis:vomiting	drug-disease
+db00635	dis:cystitis	drug-disease
+db00549	dis:leukocytosis	drug-disease
+db01242	dis:prenatal exposure delayed effects	drug-disease
+db01182	dis:peripheral nervous system diseases	drug-disease
+db00845	dis:anemia aplastic	drug-disease
+db01229	dis:hypotension orthostatic	drug-disease
+db00333	dis:pain	drug-disease
+db01026	dis:osteomyelitis	drug-disease
+db00635	dis:thromboembolism	drug-disease
+db00640	dis:hypertension	drug-disease
+db00313	dis:paresis	drug-disease
+db00877	dis:nephrotic syndrome	drug-disease
+db00997	dis:prostatic neoplasms	drug-disease
+db00755	dis:blood coagulation disorders	drug-disease
+db00412	dis:hypokalemia	drug-disease
+db00328	dis:pulmonary edema	drug-disease
+db00788	dis:headache	drug-disease
+db00688	dis:muscle weakness	drug-disease
+db00134	dis:cocaine-related disorders	drug-disease
+db00373	dis:acidosis	drug-disease
+db00834	dis:substance withdrawal syndrome	drug-disease
+db00199	dis:chemical and drug induced liver injury	drug-disease
+db00704	dis:bradycardia	drug-disease
+db01065	dis:dyskinesia drug-induced	drug-disease
+db03783	dis:hepatomegaly	drug-disease
+db00285	dis:urinary retention	drug-disease
+db00368	dis:hypotension orthostatic	drug-disease
+db00358	dis:nausea	drug-disease
+db00495	dis:acute kidney injury	drug-disease
+db00987	dis:nervous system malformations	drug-disease
+db00877	dis:atherosclerosis	drug-disease
+db00541	dis:leukoencephalopathies	drug-disease
+db01045	dis:cholelithiasis	drug-disease
+db00443	dis:dermatitis	drug-disease
+db01136	dis:proteinuria	drug-disease
+db00675	dis:demyelinating diseases	drug-disease
+db01115	dis:sinoatrial block	drug-disease
+db01035	dis:ventricular premature complexes	drug-disease
+db00361	dis:fever	drug-disease
+db00643	dis:headache	drug-disease
+db00252	dis:brain edema	drug-disease
+db00661	dis:death sudden cardiac	drug-disease
+db00945	dis:urination disorders	drug-disease
+db01092	dis:tachycardia ventricular	drug-disease
+db00477	dis:confusion	drug-disease
+db01586	dis:inflammation	drug-disease
+db01248	dis:sarcoma	drug-disease
+db00877	dis:oral ulcer	drug-disease
+db00197	dis:precancerous conditions	drug-disease
+db00668	dis:tinnitus	drug-disease
+db00437	dis:insulin resistance	drug-disease
+db01115	dis:drug hypersensitivity	drug-disease
+db01182	dis:heart failure	drug-disease
+db01065	dis:lung neoplasms	drug-disease
+db00361	dis:constipation	drug-disease
+db00457	dis:psychomotor agitation	drug-disease
+db01045	dis:liver failure	drug-disease
+db00313	dis:hypothermia	drug-disease
+db01396	dis:arrhythmias cardiac	drug-disease
+db00945	dis:carcinoma renal cell	drug-disease
+db00590	dis:arrhythmias cardiac	drug-disease
+db00328	dis:heart failure	drug-disease
+db01394	dis:dyspnea	drug-disease
+db00264	dis:ventricular dysfunction	drug-disease
+db01043	dis:ataxia	drug-disease
+db00715	dis:urinary incontinence	drug-disease
+db00586	dis:nephritis interstitial	drug-disease
+db01242	dis:epilepsy tonic-clonic	drug-disease
+db00968	dis:hypokinesia	drug-disease
+db00907	dis:anuria	drug-disease
+db00959	dis:jaundice obstructive	drug-disease
+db00563	dis:limb deformities congenital	drug-disease
+db00914	dis:drug overdose	drug-disease
+db00563	dis:hematuria	drug-disease
+db00215	dis:tremor	drug-disease
+db01118	dis:fatigue	drug-disease
+db00563	dis:venous thrombosis	drug-disease
+db01043	dis:psychomotor agitation	drug-disease
+db00458	dis:catalepsy	drug-disease
+db00661	dis:hypertension renal	drug-disease
+db00421	dis:cardiovascular diseases	drug-disease
+db00277	dis:pneumonia	drug-disease
+db00563	dis:carcinoma non-small-cell lung	drug-disease
+db01054	dis:hypotension	drug-disease
+db00696	dis:xerostomia	drug-disease
+db01136	dis:stevens-johnson syndrome	drug-disease
+db00968	dis:colitis	drug-disease
+db00264	dis:heart block	drug-disease
+db00907	dis:dizziness	drug-disease
+db00997	dis:mammary neoplasms experimental	drug-disease
+db00564	dis:urinary retention	drug-disease
+db00915	dis:peripheral vascular diseases	drug-disease
+db00398	dis:weight loss	drug-disease
+db00446	dis:peripheral nervous system diseases	drug-disease
+db01623	dis:chemical and drug induced liver injury	drug-disease
+db01235	dis:pain	drug-disease
+db00468	dis:neutropenia	drug-disease
+db01075	dis:hallucinations	drug-disease
+db00861	dis:pain postoperative	drug-disease
+db00584	dis:brain ischemia	drug-disease
+db00788	dis:stevens-johnson syndrome	drug-disease
+db00277	dis:cocaine-related disorders	drug-disease
+db00313	dis:neurobehavioral manifestations	drug-disease
+db00343	dis:sinus arrest cardiac	drug-disease
+db00158	dis:optic nerve diseases	drug-disease
+db00537	dis:skin diseases	drug-disease
+db00812	dis:neutropenia	drug-disease
+db01151	dis:confusion	drug-disease
+db00945	dis:proteinuria	drug-disease
+db01200	dis:hydronephrosis	drug-disease
+db00813	dis:cardiomyopathies	drug-disease
+db00264	dis:acute kidney injury	drug-disease
+db01623	dis:akathisia drug-induced	drug-disease
+db00575	dis:heart arrest	drug-disease
+db00371	dis:vertigo	drug-disease
+db00860	dis:encephalomyelitis autoimmune experimental	drug-disease
+db01075	dis:dizziness	drug-disease
+db00715	dis:tachycardia	drug-disease
+db00316	dis:acidosis lactic	drug-disease
+db00669	dis:bradycardia	drug-disease
+db00501	dis:hyperprolactinemia	drug-disease
+db00321	dis:memory disorders	drug-disease
+db00584	dis:nephritis	drug-disease
+db00759	dis:diarrhea	drug-disease
+db00361	dis:diarrhea	drug-disease
+db00959	dis:abdominal pain	drug-disease
+db01229	dis:polyneuropathies	drug-disease
+db00812	dis:glomerulonephritis	drug-disease
+db00950	dis:atherosclerosis	drug-disease
+db01211	dis:long qt syndrome	drug-disease
+db00451	dis:anuria	drug-disease
+db00829	dis:cleft palate	drug-disease
+db01234	dis:endometrial neoplasms	drug-disease
+db00482	dis:nervous system diseases	drug-disease
+db01645	dis:prenatal exposure delayed effects	drug-disease
+db00495	dis:prenatal exposure delayed effects	drug-disease
+db00619	dis:leukemia myelogenous chronic bcr-abl positive	drug-disease
+db00563	dis:drug hypersensitivity	drug-disease
+db00321	dis:hematuria	drug-disease
+db01095	dis:hyperlipidemias	drug-disease
+db00564	dis:bile duct diseases	drug-disease
+db01200	dis:hemorrhage	drug-disease
+db01165	dis:cholestasis	drug-disease
+db01645	dis:colonic neoplasms	drug-disease
+db00811	dis:ocular motility disorders	drug-disease
+db01577	dis:hallucinations	drug-disease
+db01234	dis:liver diseases	drug-disease
+db00640	dis:ventricular fibrillation	drug-disease
+db00669	dis:venous thrombosis	drug-disease
+db00541	dis:carcinoma	drug-disease
+db00334	dis:myoclonus	drug-disease
+db00973	dis:sinusitis	drug-disease
+db00627	dis:signs and symptoms digestive	drug-disease
+db00334	dis:urination disorders	drug-disease
+db00915	dis:confusion	drug-disease
+db00177	dis:memory disorders	drug-disease
+db00656	dis:hypotension	drug-disease
+db00295	dis:reflex abnormal	drug-disease
+db00668	dis:heart failure	drug-disease
+db00541	dis:hemolytic-uremic syndrome	drug-disease
+db00264	dis:dyslipidemias	drug-disease
+db00586	dis:inflammation	drug-disease
+db01211	dis:olfaction disorders	drug-disease
+db01075	dis:oliguria	drug-disease
+db01167	dis:stevens-johnson syndrome	drug-disease
+db00795	dis:stomach ulcer	drug-disease
+db00575	dis:status epilepticus	drug-disease
+db01165	dis:hypoglycemia	drug-disease
+db00252	dis:heart arrest	drug-disease
+db00544	dis:esophageal neoplasms	drug-disease
+db00533	dis:drug eruptions	drug-disease
+db00908	dis:anemia aplastic	drug-disease
+db00907	dis:myasthenia gravis	drug-disease
+db00285	dis:movement disorders	drug-disease
+db01136	dis:ventricular dysfunction	drug-disease
+db01075	dis:torticollis	drug-disease
+db00252	dis:cerebral infarction	drug-disease
+db00320	dis:kidney papillary necrosis	drug-disease
+db00635	dis:pulmonary fibrosis	drug-disease
+db00541	dis:paraplegia	drug-disease
+db00669	dis:inflammation	drug-disease
+db00669	dis:hyperalgesia	drug-disease
+db00313	dis:nocturnal enuresis	drug-disease
+db00586	dis:drug hypersensitivity	drug-disease
+db00368	dis:hypokalemia	drug-disease
+db01035	dis:hypotension	drug-disease
+db00501	dis:vasculitis	drug-disease
+db00458	dis:hyperkinesis	drug-disease
+db00605	dis:stevens-johnson syndrome	drug-disease
+db01212	dis:liver diseases	drug-disease
+db00451	dis:cardiomegaly	drug-disease
+db00678	dis:gout	drug-disease
+db00285	dis:hyperalgesia	drug-disease
+db00441	dis:pericardial effusion	drug-disease
+db00661	dis:unconsciousness	drug-disease
+db00549	dis:pulmonary edema	drug-disease
+db00668	dis:pruritus	drug-disease
+db00977	dis:prostatic neoplasms	drug-disease
+db00563	dis:neurologic manifestations	drug-disease
+db01016	dis:drug-related side effects and adverse reactions	drug-disease
+db00457	dis:cardiovascular diseases	drug-disease
+db00882	dis:breast neoplasms	drug-disease
+db00523	dis:chemical and drug induced liver injury	drug-disease
+db00564	dis:psychoses substance-induced	drug-disease
+db00295	dis:anorexia	drug-disease
+db00328	dis:catalepsy	drug-disease
+db01229	dis:extravasation of diagnostic and therapeutic materials	drug-disease
+db00328	dis:anaphylaxis	drug-disease
+db00712	dis:dyspepsia	drug-disease
+db01174	dis:glycosuria	drug-disease
+db00277	dis:hyperalgesia	drug-disease
+db00502	dis:necrosis	drug-disease
+db00734	dis:parkinson disease secondary	drug-disease
+db00445	dis:hypotension	drug-disease
+db00945	dis:intracranial hypertension	drug-disease
+db01177	dis:mitochondrial diseases	drug-disease
+db00877	dis:kidney tubular necrosis acute	drug-disease
+db00834	dis:infertility female	drug-disease
+db00977	dis:edema	drug-disease
+db00967	dis:urticaria	drug-disease
+db00440	dis:meningitis	drug-disease
+db00624	dis:insulin resistance	drug-disease
+db00458	dis:shock cardiogenic	drug-disease
+db00182	dis:dyspnea	drug-disease
+db00334	dis:cardiovascular diseases	drug-disease
+db00712	dis:kidney papillary necrosis	drug-disease
+db00734	dis:tachycardia	drug-disease
+db00182	dis:epilepsies myoclonic	drug-disease
+db00563	dis:cystitis	drug-disease
+db00328	dis:heart defects congenital	drug-disease
+db00715	dis:rhabdomyolysis	drug-disease
+db01234	dis:pain postoperative	drug-disease
+db00678	dis:diabetic nephropathies	drug-disease
+db00831	dis:movement disorders	drug-disease
+db01118	dis:hepatic encephalopathy	drug-disease
+db00675	dis:melanoma	drug-disease
+db01097	dis:stevens-johnson syndrome	drug-disease
+db00907	dis:sialorrhea	drug-disease
+db00882	dis:memory disorders	drug-disease
+db01261	dis:atrophy	drug-disease
+db01221	dis:ocular motility disorders	drug-disease
+db01393	dis:inflammation	drug-disease
+db00199	dis:staphylococcal infections	drug-disease
+db00201	dis:muscle weakness	drug-disease
+db00428	dis:glomerulosclerosis focal segmental	drug-disease
+db00184	dis:nystagmus pathologic	drug-disease
+db00683	dis:catalepsy	drug-disease
+db01167	dis:urticaria	drug-disease
+db00158	dis:dizziness	drug-disease
+db00184	dis:abnormalities drug-induced	drug-disease
+db00122	dis:inflammation	drug-disease
+db00343	dis:angioedema	drug-disease
+db00134	dis:coma	drug-disease
+db00966	dis:diabetes mellitus type 2	drug-disease
+db00688	dis:glomerulonephritis	drug-disease
+db00987	dis:optic atrophy	drug-disease
+db00987	dis:eye diseases	drug-disease
+db01623	dis:speech disorders	drug-disease
+db00158	dis:prenatal exposure delayed effects	drug-disease
+db00382	dis:memory disorders	drug-disease
+db00683	dis:pain postoperative	drug-disease
+db00396	dis:pain	drug-disease
+db00882	dis:epilepsy tonic-clonic	drug-disease
+db00749	dis:colorectal neoplasms	drug-disease
+db00368	dis:neoplasm invasiveness	drug-disease
+db00758	dis:cerebral hemorrhage	drug-disease
+db00819	dis:hyperplasia	drug-disease
+db00316	dis:acute kidney injury	drug-disease
+db00555	dis:meningitis aseptic	drug-disease
+db01234	dis:hypokalemia	drug-disease
+db00795	dis:autoimmune diseases	drug-disease
+db01212	dis:substance withdrawal syndrome	drug-disease
+db00178	dis:uremia	drug-disease
+db00836	dis:abdominal pain	drug-disease
+db00518	dis:constipation	drug-disease
+db00875	dis:fatty liver	drug-disease
+db01234	dis:prenatal exposure delayed effects	drug-disease
+db01234	dis:peripheral nervous system diseases	drug-disease
+db01174	dis:reflex abnormal	drug-disease
+db00927	dis:stomach neoplasms	drug-disease
+db00445	dis:diarrhea	drug-disease
+db00458	dis:heart diseases	drug-disease
+db00758	dis:necrosis	drug-disease
+db00829	dis:dystonia	drug-disease
+db00570	dis:chest pain	drug-disease
+db00656	dis:inflammation	drug-disease
+db00328	dis:anorexia	drug-disease
+db00564	dis:premature birth	drug-disease
+db00790	dis:hypertrophy left ventricular	drug-disease
+db01586	dis:hyperthyroidism	drug-disease
+db00343	dis:substance withdrawal syndrome	drug-disease
+db01032	dis:necrosis	drug-disease
+db00472	dis:weight loss	drug-disease
+db00640	dis:reperfusion injury	drug-disease
+db00586	dis:gastritis	drug-disease
+db00215	dis:dyskinesia drug-induced	drug-disease
+db00343	dis:hypertrophy left ventricular	drug-disease
+db01097	dis:neural tube defects	drug-disease
+db00201	dis:basal ganglia diseases	drug-disease
+db00421	dis:quadriplegia	drug-disease
+db00495	dis:hypotension orthostatic	drug-disease
+db00563	dis:coma	drug-disease
+db00997	dis:epilepsy absence	drug-disease
+db00255	dis:carcinoma hepatocellular	drug-disease
+db00635	dis:hallucinations	drug-disease
+db00482	dis:headache	drug-disease
+db01100	dis:tourette syndrome	drug-disease
+db00477	dis:photosensitivity disorders	drug-disease
+db00788	dis:renal insufficiency	drug-disease
+db00158	dis:neural tube defects	drug-disease
+db00773	dis:ataxia	drug-disease
+db00428	dis:diabetes insipidus nephrogenic	drug-disease
+db04216	dis:fatty liver	drug-disease
+db00758	dis:dyspnea	drug-disease
+db00445	dis:lung neoplasms	drug-disease
+db00295	dis:headache	drug-disease
+db00788	dis:fever	drug-disease
+db00968	dis:constipation	drug-disease
+db00264	dis:bradycardia	drug-disease
+db00860	dis:hyperalgesia	drug-disease
+db01435	dis:kidney diseases	drug-disease
+db01235	dis:vision disorders	drug-disease
+db01183	dis:seizures	drug-disease
+db01032	dis:albuminuria	drug-disease
+db01212	dis:inflammation	drug-disease
+db00877	dis:acute kidney injury	drug-disease
+db00695	dis:nephrotic syndrome	drug-disease
+db01261	dis:weight loss	drug-disease
+db00605	dis:psychoses substance-induced	drug-disease
+db00412	dis:breast neoplasms	drug-disease
+db00313	dis:neoplasm metastasis	drug-disease
+db00997	dis:arrhythmias cardiac	drug-disease
+db00608	dis:heart arrest	drug-disease
+db01229	dis:uterine cervical neoplasms	drug-disease
+db00819	dis:coma	drug-disease
+db01118	dis:cholangitis	drug-disease
+db00814	dis:tremor	drug-disease
+db00997	dis:tachycardia	drug-disease
+db01115	dis:necrosis	drug-disease
+db01224	dis:hypercholesterolemia	drug-disease
+db00313	dis:leukemia myeloid acute	drug-disease
+db00541	dis:diplopia	drug-disease
+db00836	dis:delirium	drug-disease
+db00734	dis:neurotoxicity syndromes	drug-disease
+db01211	dis:diarrhea	drug-disease
+db00533	dis:weight loss	drug-disease
+db00925	dis:kidney diseases	drug-disease
+db01037	dis:learning disorders	drug-disease
+db01098	dis:pain	drug-disease
+db00252	dis:vomiting	drug-disease
+db00316	dis:sinusitis	drug-disease
+db00182	dis:premature birth	drug-disease
+db00295	dis:myocardial reperfusion injury	drug-disease
+db00295	dis:anaphylaxis	drug-disease
+db00554	dis:nephrotic syndrome	drug-disease
+db01118	dis:cardiomyopathy dilated	drug-disease
+db01118	dis:hypotension	drug-disease
+db01261	dis:hyperglycemia	drug-disease
+db00255	dis:diarrhea	drug-disease
+db01132	dis:glomerulosclerosis focal segmental	drug-disease
+db00605	dis:arthritis	drug-disease
+db01200	dis:pain	drug-disease
+db01065	dis:brain ischemia	drug-disease
+db00605	dis:fever	drug-disease
+db00635	dis:hepatomegaly	drug-disease
+db00734	dis:nausea	drug-disease
+db00788	dis:tinnitus	drug-disease
+db00443	dis:muscular diseases	drug-disease
+db00502	dis:chorea	drug-disease
+db01142	dis:urinary incontinence	drug-disease
+db00441	dis:rhabdomyolysis	drug-disease
+db01023	dis:dizziness	drug-disease
+db00412	dis:hypertension pulmonary	drug-disease
+db00608	dis:fetal growth retardation	drug-disease
+db00398	dis:ovarian neoplasms	drug-disease
+db00544	dis:constipation	drug-disease
+db00907	dis:atrial flutter	drug-disease
+db00758	dis:coronary thrombosis	drug-disease
+db00683	dis:respiration disorders	drug-disease
+db00368	dis:ventricular fibrillation	drug-disease
+db00997	dis:neoplasm metastasis	drug-disease
+db00675	dis:vasculitis	drug-disease
+db01115	dis:stroke	drug-disease
+db00349	dis:seizures	drug-disease
+db00690	dis:cholestasis intrahepatic	drug-disease
+db01151	dis:catalepsy	drug-disease
+db00428	dis:insulin resistance	drug-disease
+db00371	dis:sleep wake disorders	drug-disease
+db00829	dis:catalepsy	drug-disease
+db00927	dis:myoclonus	drug-disease
+db00987	dis:bradycardia	drug-disease
+db00316	dis:neural tube defects	drug-disease
+db01076	dis:seizures	drug-disease
+db00695	dis:hearing loss	drug-disease
+db00795	dis:breast neoplasms	drug-disease
+db00254	dis:dysarthria	drug-disease
+db00987	dis:hypotension	drug-disease
+db00925	dis:urinary retention	drug-disease
+db00877	dis:oligospermia	drug-disease
+db13919	dis:hyperkalemia	drug-disease
+db00812	dis:leukemia myeloid acute	drug-disease
+db00563	dis:muscle hypotonia	drug-disease
+db00203	dis:pneumonia	drug-disease
+db00829	dis:sexual dysfunction physiological	drug-disease
+db00264	dis:glycosuria	drug-disease
+db01075	dis:ataxia	drug-disease
+db00925	dis:tremor	drug-disease
+db00571	dis:hypertension pulmonary	drug-disease
+db01183	dis:constipation	drug-disease
+db01075	dis:catalepsy	drug-disease
+db00661	dis:acidosis	drug-disease
+db00641	dis:glioma	drug-disease
+db00987	dis:neurotoxicity syndromes	drug-disease
+db00519	dis:vertigo	drug-disease
+db00668	dis:epilepsy tonic-clonic	drug-disease
+db01174	dis:liver cirrhosis experimental	drug-disease
+db00668	dis:thromboembolism	drug-disease
+db01050	dis:brain ischemia	drug-disease
+db00608	dis:hypotension	drug-disease
+db00563	dis:pain	drug-disease
+db00313	dis:prenatal exposure delayed effects	drug-disease
+db04216	dis:catalepsy	drug-disease
+db00811	dis:fatigue	drug-disease
+db00328	dis:hallucinations	drug-disease
+db01045	dis:pancreatitis	drug-disease
+db00661	dis:parkinsonian disorders	drug-disease
+db01115	dis:edema	drug-disease
+db01577	dis:acute coronary syndrome	drug-disease
+db00635	dis:azotemia	drug-disease
+db00668	dis:heart block	drug-disease
+db00959	dis:pneumonia	drug-disease
+db00201	dis:stomach neoplasms	drug-disease
+db00363	dis:pulmonary embolism	drug-disease
+db01182	dis:ventricular dysfunction	drug-disease
+db00594	dis:polyuria	drug-disease
+db00541	dis:paresthesia	drug-disease
+db01075	dis:sinusitis	drug-disease
+db00563	dis:drug-related side effects and adverse reactions	drug-disease
+db00334	dis:heart block	drug-disease
+db00455	dis:angioedema	drug-disease
+db00860	dis:dyslipidemias	drug-disease
+db00602	dis:fever	drug-disease
+db00812	dis:granuloma	drug-disease
+db00966	dis:hypertension	drug-disease
+db00564	dis:poisoning	drug-disease
+db00860	dis:epilepsy generalized	drug-disease
+db00759	dis:acidosis	drug-disease
+db00468	dis:pain	drug-disease
+db00694	dis:thrombosis	drug-disease
+db01234	dis:adenoma	drug-disease
+db00321	dis:thrombosis	drug-disease
+db01151	dis:heart diseases	drug-disease
+db00458	dis:myocardial ischemia	drug-disease
+db00428	dis:hyperalgesia	drug-disease
+db01054	dis:atherosclerosis	drug-disease
+db00694	dis:peripheral nervous system diseases	drug-disease
+db00563	dis:sarcoma	drug-disease
+db01045	dis:drug hypersensitivity	drug-disease
+db00184	dis:edema	drug-disease
+db00908	dis:sinoatrial block	drug-disease
+db00437	dis:drug hypersensitivity	drug-disease
+db00877	dis:neoplasm metastasis	drug-disease
+db01115	dis:tachycardia supraventricular	drug-disease
+db00254	dis:syncope	drug-disease
+db01204	dis:mitochondrial diseases	drug-disease
+db00264	dis:respiratory insufficiency	drug-disease
+db01016	dis:exanthema	drug-disease
+db00907	dis:ventricular dysfunction left	drug-disease
+db00328	dis:sepsis	drug-disease
+db00182	dis:urinary retention	drug-disease
+db01075	dis:edema	drug-disease
+db00977	dis:arteriosclerosis	drug-disease
+db01234	dis:vascular diseases	drug-disease
+db00211	dis:syncope	drug-disease
+db00501	dis:endometrial neoplasms	drug-disease
+db01136	dis:insulin resistance	drug-disease
+db00563	dis:myocardial ischemia	drug-disease
+db00741	dis:seizures	drug-disease
+db01577	dis:ventricular fibrillation	drug-disease
+db01577	dis:eosinophilia	drug-disease
+db00715	dis:confusion	drug-disease
+db01026	dis:anemia hemolytic autoimmune	drug-disease
+db00443	dis:pulmonary embolism	drug-disease
+db00264	dis:angina pectoris	drug-disease
+db00635	dis:thrombosis	drug-disease
+db00861	dis:dermatitis exfoliative	drug-disease
+db00555	dis:rhabdomyolysis	drug-disease
+db00641	dis:substance withdrawal syndrome	drug-disease
+db00313	dis:glycosuria	drug-disease
+db01396	dis:ventricular dysfunction left	drug-disease
+db00468	dis:abdominal pain	drug-disease
+db01174	dis:hypoxia	drug-disease
+db00201	dis:seizures	drug-disease
+db00373	dis:fatigue	drug-disease
+db01577	dis:urinary retention	drug-disease
+db00242	dis:leukemia lymphocytic chronic b-cell	drug-disease
+db00564	dis:color vision defects	drug-disease
+db01234	dis:shock cardiogenic	drug-disease
+db00819	dis:anemia aplastic	drug-disease
+db01174	dis:urinary bladder neoplasms	drug-disease
+db00641	dis:coronary artery disease	drug-disease
+db01118	dis:acidosis	drug-disease
+db00571	dis:ischemia	drug-disease
+db00227	dis:hypertension	drug-disease
+db00570	dis:alopecia	drug-disease
+db00635	dis:pleural effusion	drug-disease
+db00333	dis:oliguria	drug-disease
+db00428	dis:memory disorders	drug-disease
+db01103	dis:precancerous conditions	drug-disease
+db00257	dis:hypertension	drug-disease
+db00537	dis:bacterial infections	drug-disease
+db00925	dis:muscle rigidity	drug-disease
+db00575	dis:catalepsy	drug-disease
+db00321	dis:tinnitus	drug-disease
+db01043	dis:catalepsy	drug-disease
+db01212	dis:bacterial infections	drug-disease
+db01076	dis:pulmonary fibrosis	drug-disease
+db00740	dis:pain	drug-disease
+db00541	dis:polyneuropathies	drug-disease
+db00203	dis:flushing	drug-disease
+db00773	dis:myocardial ischemia	drug-disease
+db01092	dis:paralysis	drug-disease
+db01054	dis:diabetes mellitus type 2	drug-disease
+db01115	dis:cardiomyopathy hypertrophic	drug-disease
+db01235	dis:chorea	drug-disease
+db01138	dis:myocardial infarction	drug-disease
+db01098	dis:kidney diseases	drug-disease
+db00795	dis:neurotoxicity syndromes	drug-disease
+db00458	dis:seizures	drug-disease
+db00907	dis:hearing loss bilateral	drug-disease
+db00182	dis:amnesia	drug-disease
+db00641	dis:cardiomegaly	drug-disease
+db00741	dis:brain edema	drug-disease
+db00412	dis:obesity	drug-disease
+db00368	dis:heart arrest	drug-disease
+db00201	dis:dyskinesia drug-induced	drug-disease
+db00741	dis:weight gain	drug-disease
+db00477	dis:anemia hemolytic	drug-disease
+db00668	dis:muscle rigidity	drug-disease
+db00987	dis:chest pain	drug-disease
+db00343	dis:cocaine-related disorders	drug-disease
+db01229	dis:tachycardia	drug-disease
+db00201	dis:ventricular premature complexes	drug-disease
+db00544	dis:carcinoma hepatocellular	drug-disease
+db01586	dis:cholangitis	drug-disease
+db00554	dis:hearing loss	drug-disease
+db00184	dis:memory disorders	drug-disease
+db00203	dis:stomach diseases	drug-disease
+db00358	dis:hearing loss	drug-disease
+db00428	dis:cardiomyopathy hypertrophic	drug-disease
+db00227	dis:colonic neoplasms	drug-disease
+db00201	dis:chills	drug-disease
+db00344	dis:hypotension orthostatic	drug-disease
+db00343	dis:cardiomyopathy hypertrophic	drug-disease
+db01234	dis:nephritis	drug-disease
+db00563	dis:hypothermia	drug-disease
+db00759	dis:diplopia	drug-disease
+db01435	dis:urinary bladder neoplasms	drug-disease
+db00814	dis:drug-related side effects and adverse reactions	drug-disease
+db00704	dis:pruritus	drug-disease
+db00675	dis:breast neoplasms	drug-disease
+db00184	dis:erythema	drug-disease
+db00316	dis:hypophosphatemia	drug-disease
+db01623	dis:urinary incontinence	drug-disease
+db01076	dis:muscle weakness	drug-disease
+db00412	dis:reperfusion injury	drug-disease
+db00255	dis:urinary bladder neoplasms	drug-disease
+db00477	dis:brain edema	drug-disease
+db01396	dis:atrial flutter	drug-disease
+db00829	dis:pulmonary embolism	drug-disease
+db00328	dis:anemia aplastic	drug-disease
+db00908	dis:splenomegaly	drug-disease
+db00242	dis:anorexia	drug-disease
+db00564	dis:red-cell aplasia pure	drug-disease
+db00502	dis:muscle rigidity	drug-disease
+db00255	dis:endometrial neoplasms	drug-disease
+db00441	dis:carcinoma non-small-cell lung	drug-disease
+db01151	dis:headache	drug-disease
+db01234	dis:asthma	drug-disease
+db00201	dis:hypertension renal	drug-disease
+db00861	dis:oliguria	drug-disease
+db00783	dis:insulin resistance	drug-disease
+db00749	dis:pain	drug-disease
+db00563	dis:abdominal pain	drug-disease
+db01577	dis:azotemia	drug-disease
+db00541	dis:hearing loss sensorineural	drug-disease
+db01115	dis:polyuria	drug-disease
+db00175	dis:adenoma	drug-disease
+db01045	dis:anemia aplastic	drug-disease
+db00313	dis:vasculitis leukocytoclastic cutaneous	drug-disease
+db01075	dis:speech disorders	drug-disease
+db00495	dis:substance withdrawal syndrome	drug-disease
+db01234	dis:cardiomyopathy hypertrophic	drug-disease
+db00987	dis:hallucinations	drug-disease
+db00472	dis:lipidoses	drug-disease
+db03783	dis:testicular diseases	drug-disease
+db00860	dis:edema	drug-disease
+db00712	dis:miosis	drug-disease
+db00201	dis:subarachnoid hemorrhage	drug-disease
+db01167	dis:fatigue	drug-disease
+db00575	dis:dizziness	drug-disease
+db00255	dis:thromboembolism	drug-disease
+db00321	dis:dyskinesia drug-induced	drug-disease
+db01151	dis:blepharoptosis	drug-disease
+db00795	dis:dermatitis	drug-disease
+db01229	dis:ventricular dysfunction left	drug-disease
+db00334	dis:hypokinesia	drug-disease
+db01032	dis:proteinuria	drug-disease
+db00795	dis:liver failure acute	drug-disease
+db01151	dis:constipation	drug-disease
+db00203	dis:myocardial ischemia	drug-disease
+db00252	dis:anemia hemolytic autoimmune	drug-disease
+db00428	dis:diabetic nephropathies	drug-disease
+db01118	dis:constipation	drug-disease
+db00254	dis:olfaction disorders	drug-disease
+db01115	dis:arrhythmias cardiac	drug-disease
+db00446	dis:mitochondrial diseases	drug-disease
+db00549	dis:pharyngitis	drug-disease
+db00726	dis:malaria	drug-disease
+db00795	dis:hemorrhage	drug-disease
+db00907	dis:athetosis	drug-disease
+db01183	dis:heart arrest	drug-disease
+db00544	dis:ventricular premature complexes	drug-disease
+db00197	dis:glioma	drug-disease
+db00887	dis:kidney diseases	drug-disease
+db01118	dis:prenatal exposure delayed effects	drug-disease
+db00997	dis:poisoning	drug-disease
+db00860	dis:heart diseases	drug-disease
+db00184	dis:breast neoplasms	drug-disease
+db01065	dis:migraine disorders	drug-disease
+db00158	dis:cleft palate	drug-disease
+db00608	dis:torsades de pointes	drug-disease
+db00177	dis:hypertension renal	drug-disease
+db01182	dis:long qt syndrome	drug-disease
+db00363	dis:dementia	drug-disease
+db01193	dis:tachycardia	drug-disease
+db01229	dis:gastrointestinal diseases	drug-disease
+db00457	dis:muscle rigidity	drug-disease
+db00802	dis:hyperalgesia	drug-disease
+db00811	dis:pancreatitis	drug-disease
+db00914	dis:diabetes mellitus	drug-disease
+db00987	dis:urticaria	drug-disease
+db00334	dis:delirium	drug-disease
+db00564	dis:drug-related side effects and adverse reactions	drug-disease
+db01184	dis:ventricular fibrillation	drug-disease
+db01059	dis:drug eruptions	drug-disease
+db00683	dis:coma	drug-disease
+db00656	dis:priapism	drug-disease
+db01234	dis:stomach ulcer	drug-disease
+db00313	dis:pseudotumor cerebri	drug-disease
+db01244	dis:ventricular fibrillation	drug-disease
+db00295	dis:urinary retention	drug-disease
+db00254	dis:cocaine-related disorders	drug-disease
+db00814	dis:colorectal neoplasms	drug-disease
+db00740	dis:hyperkinesis	drug-disease
+db00285	dis:psychoses substance-induced	drug-disease
+db00519	dis:ventricular dysfunction left	drug-disease
+db00184	dis:fetal growth retardation	drug-disease
+db00811	dis:hypothyroidism	drug-disease
+db00412	dis:neurobehavioral manifestations	drug-disease
+db01045	dis:meningitis	drug-disease
+db00313	dis:coma	drug-disease
+db00812	dis:substance-related disorders	drug-disease
+db00382	dis:hypotension	drug-disease
+db00257	dis:neoplasm metastasis	drug-disease
+db00321	dis:hyponatremia	drug-disease
+db01204	dis:heart failure	drug-disease
+db00255	dis:porphyria cutanea tarda	drug-disease
+db00158	dis:peripheral nervous system diseases	drug-disease
+db01069	dis:tachycardia ventricular	drug-disease
+db01115	dis:pulmonary edema	drug-disease
+db00584	dis:atherosclerosis	drug-disease
+db00412	dis:hyperglycemia	drug-disease
+db00254	dis:hypertension	drug-disease
+db00987	dis:drug-related side effects and adverse reactions	drug-disease
+db00813	dis:serotonin syndrome	drug-disease
+db00605	dis:colonic neoplasms	drug-disease
+db00255	dis:pregnancy complications	drug-disease
+db01196	dis:vomiting	drug-disease
+db01065	dis:necrosis	drug-disease
+db01100	dis:cataplexy	drug-disease
+db00656	dis:psychomotor agitation	drug-disease
+db00783	dis:ventricular dysfunction left	drug-disease
+db00501	dis:lethargy	drug-disease
+db00863	dis:psychomotor agitation	drug-disease
+db00437	dis:kidney diseases	drug-disease
+db00977	dis:hypertrophy	drug-disease
+db00277	dis:renal insufficiency	drug-disease
+db00695	dis:hypotension orthostatic	drug-disease
+db00773	dis:vomiting	drug-disease
+db00215	dis:serotonin syndrome	drug-disease
+db00997	dis:cardiomyopathies	drug-disease
+db00907	dis:hypesthesia	drug-disease
+db00477	dis:testicular diseases	drug-disease
+db00316	dis:liver cirrhosis	drug-disease
+db00295	dis:confusion	drug-disease
+db01045	dis:disseminated intravascular coagulation	drug-disease
+db01132	dis:jaundice	drug-disease
+db01396	dis:bundle-branch block	drug-disease
+db00373	dis:weight loss	drug-disease
+db00829	dis:urinary bladder neoplasms	drug-disease
+db00458	dis:ventricular dysfunction	drug-disease
+db01151	dis:muscle hypertonia	drug-disease
+db00199	dis:drug-related side effects and adverse reactions	drug-disease
+db01050	dis:asthma	drug-disease
+db00281	dis:respiratory insufficiency	drug-disease
+db00477	dis:sleep initiation and maintenance disorders	drug-disease
+db00328	dis:fetal growth retardation	drug-disease
+db01115	dis:chest pain	drug-disease
+db00959	dis:pleural effusion	drug-disease
+db00555	dis:learning disorders	drug-disease
+db00812	dis:drug hypersensitivity	drug-disease
+db01016	dis:hemorrhage	drug-disease
+db00514	dis:confusion	drug-disease
+db04216	dis:metabolic syndrome	drug-disease
+db01136	dis:bradycardia	drug-disease
+db00795	dis:cholestasis	drug-disease
+db00819	dis:tremor	drug-disease
+db00934	dis:movement disorders	drug-disease
+db01577	dis:prenatal exposure delayed effects	drug-disease
+db00563	dis:epilepsy tonic-clonic	drug-disease
+db00675	dis:pancreatic neoplasms	drug-disease
+db00321	dis:headache	drug-disease
+db00344	dis:tachycardia ventricular	drug-disease
+db00158	dis:hypertension	drug-disease
+db00921	dis:pain postoperative	drug-disease
+db00277	dis:dyspnea	drug-disease
+db00635	dis:nephritis interstitial	drug-disease
+db00518	dis:heart defects congenital	drug-disease
+db00783	dis:demyelinating diseases	drug-disease
+db00502	dis:hallucinations	drug-disease
+db01396	dis:sinoatrial block	drug-disease
+db01224	dis:drug overdose	drug-disease
+db00907	dis:rhabdomyolysis	drug-disease
+db00441	dis:leukoencephalopathies	drug-disease
+db00656	dis:dysarthria	drug-disease
+db00586	dis:thromboembolism	drug-disease
+db01104	dis:chemical and drug induced liver injury	drug-disease
+db00860	dis:carcinoma hepatocellular	drug-disease
+db00541	dis:nephrotic syndrome	drug-disease
+db01104	dis:basal ganglia diseases	drug-disease
+db00917	dis:nephrotic syndrome	drug-disease
+db00997	dis:phlebitis	drug-disease
+db00206	dis:fever	drug-disease
+db01174	dis:neoplasms experimental	drug-disease
+db00829	dis:spasm	drug-disease
+db00627	dis:metabolic syndrome	drug-disease
+db00712	dis:gastrointestinal diseases	drug-disease
+db00997	dis:coma	drug-disease
+db00945	dis:brain edema	drug-disease
+db01183	dis:sexual dysfunction physiological	drug-disease
+db01035	dis:disseminated intravascular coagulation	drug-disease
+db00321	dis:seizures	drug-disease
+db00333	dis:tachycardia ventricular	drug-disease
+db00277	dis:fever	drug-disease
+db01118	dis:hematuria	drug-disease
+db00342	dis:bradycardia	drug-disease
+db00860	dis:meningitis	drug-disease
+db01177	dis:neutropenia	drug-disease
+db01177	dis:edema	drug-disease
+db00715	dis:neonatal abstinence syndrome	drug-disease
+db00313	dis:hyperammonemia	drug-disease
+db00608	dis:ventricular fibrillation	drug-disease
+db00564	dis:sleep wake disorders	drug-disease
+db00563	dis:lung diseases interstitial	drug-disease
+db00184	dis:myocardial infarction	drug-disease
+db00537	dis:nausea	drug-disease
+db00997	dis:angina pectoris	drug-disease
+db00182	dis:hallucinations	drug-disease
+db00790	dis:drug-related side effects and adverse reactions	drug-disease
+db01234	dis:epilepsy	drug-disease
+db00656	dis:chemical and drug induced liver injury	drug-disease
+db00317	dis:inflammation	drug-disease
+db00363	dis:akathisia drug-induced	drug-disease
+db00182	dis:anorexia	drug-disease
+db00829	dis:acute coronary syndrome	drug-disease
+db00586	dis:pain postoperative	drug-disease
+db01212	dis:fever	drug-disease
+db00544	dis:anemia hemolytic autoimmune	drug-disease
+db00586	dis:epilepsy tonic-clonic	drug-disease
+db00704	dis:vomiting	drug-disease
+db00882	dis:vision disorders	drug-disease
+db00184	dis:parkinson disease secondary	drug-disease
+db00860	dis:stomach ulcer	drug-disease
+db00927	dis:skin diseases	drug-disease
+db01151	dis:erectile dysfunction	drug-disease
+db00695	dis:paralysis	drug-disease
+db00252	dis:fever	drug-disease
+db00313	dis:cerebellar diseases	drug-disease
+db00482	dis:mammary neoplasms experimental	drug-disease
+db00997	dis:memory disorders	drug-disease
+db00457	dis:hypertrophy left ventricular	drug-disease
+db00564	dis:dermatitis exfoliative	drug-disease
+db00877	dis:neovascularization pathologic	drug-disease
+db00254	dis:lymphoma	drug-disease
+db01242	dis:constipation	drug-disease
+db01196	dis:nausea	drug-disease
+db00227	dis:stevens-johnson syndrome	drug-disease
+db00502	dis:neuroleptic malignant syndrome	drug-disease
+db01204	dis:lymphoma	drug-disease
+db00907	dis:cerebrovascular disorders	drug-disease
+db01234	dis:pulmonary fibrosis	drug-disease
+db00661	dis:pain	drug-disease
+db00783	dis:nerve degeneration	drug-disease
+db00390	dis:bradycardia	drug-disease
+db00490	dis:catatonia	drug-disease
+db00206	dis:prenatal exposure delayed effects	drug-disease
+db00328	dis:agranulocytosis	drug-disease
+db00255	dis:gynecomastia	drug-disease
+db00472	dis:cerebral hemorrhage	drug-disease
+db01577	dis:central nervous system diseases	drug-disease
+db00734	dis:metabolic syndrome	drug-disease
+db00277	dis:leukemia lymphocytic chronic b-cell	drug-disease
+db00812	dis:kidney papillary necrosis	drug-disease
+db01435	dis:kidney tubular necrosis acute	drug-disease
+db00482	dis:angina pectoris	drug-disease
+db00997	dis:conjunctivitis	drug-disease
+db01115	dis:anorexia	drug-disease
+db00281	dis:bundle-branch block	drug-disease
+db00977	dis:cholestasis	drug-disease
+db00619	dis:hypocalcemia	drug-disease
+db00175	dis:chemical and drug induced liver injury	drug-disease
+db00987	dis:pain	drug-disease
+db00564	dis:cholestasis intrahepatic	drug-disease
+db00541	dis:cardiomyopathies	drug-disease
+db00829	dis:hyperkinesis	drug-disease
+db00773	dis:liver diseases	drug-disease
+db00441	dis:heart failure	drug-disease
+db00441	dis:carcinoma squamous cell	drug-disease
+db01248	dis:hypocalcemia	drug-disease
+db00563	dis:meningitis aseptic	drug-disease
+db00184	dis:spasm	drug-disease
+db00759	dis:chemical and drug induced liver injury	drug-disease
+db00227	dis:headache	drug-disease
+db00254	dis:vomiting	drug-disease
+db01394	dis:learning disorders	drug-disease
+db01149	dis:headache	drug-disease
+db00661	dis:tachycardia	drug-disease
+db00927	dis:stevens-johnson syndrome	drug-disease
+db00790	dis:hypertension	drug-disease
+db00563	dis:liver neoplasms	drug-disease
+db01204	dis:liver diseases	drug-disease
+db00199	dis:death sudden cardiac	drug-disease
+db00968	dis:arthralgia	drug-disease
+db00925	dis:urinary bladder neoplasms	drug-disease
+db01394	dis:anemia megaloblastic	drug-disease
+db00281	dis:hypotension	drug-disease
+db00440	dis:stevens-johnson syndrome	drug-disease
+db00925	dis:vasospasm intracranial	drug-disease
+db00502	dis:amnesia	drug-disease
+db01050	dis:vision disorders	drug-disease
+db00584	dis:polyarteritis nodosa	drug-disease
+db00158	dis:neoplasms	drug-disease
+db00537	dis:weight loss	drug-disease
+db01388	dis:chemical and drug induced liver injury	drug-disease
+db00328	dis:skin diseases	drug-disease
+db00178	dis:angioedema	drug-disease
+db00544	dis:hypokinesia	drug-disease
+db00428	dis:hyperglycemia	drug-disease
+db00668	dis:unconsciousness	drug-disease
+db00313	dis:liver failure acute	drug-disease
+db00321	dis:epilepsy tonic-clonic	drug-disease
+db00795	dis:headache	drug-disease
+db00678	dis:confusion	drug-disease
+db00734	dis:movement disorders	drug-disease
+db00514	dis:delirium	drug-disease
+db00694	dis:thrombocytopenia	drug-disease
+db00640	dis:tremor	drug-disease
+db00468	dis:headache	drug-disease
+db00215	dis:diarrhea	drug-disease
+db00541	dis:gastrointestinal diseases	drug-disease
+db01235	dis:back pain	drug-disease
+db01177	dis:acute kidney injury	drug-disease
+db01165	dis:confusion	drug-disease
+db00544	dis:cerebral infarction	drug-disease
+db00661	dis:spinal cord diseases	drug-disease
+db00635	dis:precursor cell lymphoblastic leukemia-lymphoma	drug-disease
+db00812	dis:proteinuria	drug-disease
+db01212	dis:athetosis	drug-disease
+db01234	dis:keratitis	drug-disease
+db01196	dis:hypotension	drug-disease
+db00669	dis:angioedema	drug-disease
+db00501	dis:atrioventricular block	drug-disease
+db00215	dis:neoplasm metastasis	drug-disease
+db00635	dis:chemical and drug induced liver injury	drug-disease
+db00734	dis:dizziness	drug-disease
+db00814	dis:sialorrhea	drug-disease
+db00829	dis:hypertension	drug-disease
+db01026	dis:seizures	drug-disease
+db01076	dis:polymyositis	drug-disease
+db00605	dis:eosinophilia	drug-disease
+db00199	dis:gastroenteritis	drug-disease
+db01183	dis:acute kidney injury	drug-disease
+db00635	dis:bone diseases	drug-disease
+db00182	dis:rhabdomyolysis	drug-disease
+db00281	dis:epilepsy	drug-disease
+db01174	dis:lethargy	drug-disease
+db00903	dis:hearing loss sensorineural	drug-disease
+db00333	dis:hypoxia	drug-disease
+db00860	dis:urinary retention	drug-disease
+db00501	dis:status epilepticus	drug-disease
+db00575	dis:growth disorders	drug-disease
+db00563	dis:dermatitis exfoliative	drug-disease
+db01229	dis:sensation disorders	drug-disease
+db00277	dis:inappropriate adh syndrome	drug-disease
+db00285	dis:neurotoxicity syndromes	drug-disease
+db00554	dis:anemia aplastic	drug-disease
+db01050	dis:low back pain	drug-disease
+db01200	dis:bradycardia	drug-disease
+db01244	dis:fatigue	drug-disease
+db01136	dis:hypertension	drug-disease
+db00519	dis:heart failure	drug-disease
+db01577	dis:drug-related side effects and adverse reactions	drug-disease
+db01200	dis:tachycardia	drug-disease
+db01050	dis:migraine disorders	drug-disease
+db00544	dis:thrombocytopenia	drug-disease
+db00421	dis:headache	drug-disease
+db00439	dis:heart diseases	drug-disease
+db00363	dis:angioedema	drug-disease
+db00627	dis:retinal diseases	drug-disease
+db00908	dis:drug hypersensitivity	drug-disease
+db00813	dis:tremor	drug-disease
+db00635	dis:cardiomyopathy dilated	drug-disease
+db01241	dis:jaundice obstructive	drug-disease
+db00812	dis:ulcer	drug-disease
+db00363	dis:death sudden cardiac	drug-disease
+db00773	dis:heart failure	drug-disease
+db00584	dis:urinary incontinence	drug-disease
+db00252	dis:myocarditis	drug-disease
+db00457	dis:hyperalgesia	drug-disease
+db01136	dis:kidney failure chronic	drug-disease
+db01586	dis:neoplasms	drug-disease
+db00773	dis:agranulocytosis	drug-disease
+db00371	dis:hypotension	drug-disease
+db00907	dis:cleft palate	drug-disease
+db00908	dis:anemia hemolytic autoimmune	drug-disease
+db00257	dis:brain neoplasms	drug-disease
+db00563	dis:optic atrophy	drug-disease
+db00255	dis:prostatic neoplasms	drug-disease
+db00712	dis:drug-related side effects and adverse reactions	drug-disease
+db01211	dis:psychoses substance-induced	drug-disease
+db01167	dis:ventricular fibrillation	drug-disease
+db01174	dis:fever	drug-disease
+db01118	dis:optic nerve diseases	drug-disease
+db00641	dis:stroke	drug-disease
+db00252	dis:peripheral nervous system diseases	drug-disease
+db00472	dis:hypotension	drug-disease
+db00564	dis:hyperkinesis	drug-disease
+db01045	dis:consciousness disorders	drug-disease
+db00605	dis:melanoma	drug-disease
+db01577	dis:hypertension	drug-disease
+db00945	dis:brain infarction	drug-disease
+db00575	dis:hypotension	drug-disease
+db00997	dis:carcinoma transitional cell	drug-disease
+db01100	dis:parkinsonian disorders	drug-disease
+db00741	dis:rhabdomyosarcoma	drug-disease
+db01174	dis:hematologic diseases	drug-disease
+db00178	dis:cardiomyopathy dilated	drug-disease
+db00363	dis:heart diseases	drug-disease
+db00623	dis:dystonic disorders	drug-disease
+db00428	dis:hypoglycemia	drug-disease
+db00907	dis:hearing disorders	drug-disease
+db00783	dis:anorexia	drug-disease
+db00328	dis:hypokalemia	drug-disease
+db00694	dis:glomerulosclerosis focal segmental	drug-disease
+db00184	dis:colonic neoplasms	drug-disease
+db00321	dis:neurotoxicity syndromes	drug-disease
+db00316	dis:purpura schoenlein-henoch	drug-disease
+db00788	dis:hypertension pulmonary	drug-disease
+db00678	dis:ventricular remodeling	drug-disease
+db01234	dis:hyperinsulinism	drug-disease
+db00122	dis:fatty liver	drug-disease
+db00544	dis:uterine neoplasms	drug-disease
+db00959	dis:muscular diseases	drug-disease
+db00328	dis:carcinoma renal cell	drug-disease
+db00675	dis:infertility female	drug-disease
+db00501	dis:hypoglycemia	drug-disease
+db00635	dis:prenatal exposure delayed effects	drug-disease
+db00688	dis:muscular diseases	drug-disease
+db00605	dis:adenocarcinoma	drug-disease
+db01045	dis:edema	drug-disease
+db00184	dis:paralysis	drug-disease
+db00863	dis:tinnitus	drug-disease
+db00252	dis:kidney diseases	drug-disease
+db01235	dis:memory disorders	drug-disease
+db01248	dis:muscular diseases	drug-disease
+db00514	dis:lethargy	drug-disease
+db00915	dis:inappropriate adh syndrome	drug-disease
+db00907	dis:bronchial spasm	drug-disease
+db00773	dis:precursor cell lymphoblastic leukemia-lymphoma	drug-disease
+db00295	dis:brain diseases	drug-disease
+db01065	dis:kidney failure chronic	drug-disease
+db00997	dis:extravasation of diagnostic and therapeutic materials	drug-disease
+db00445	dis:ovarian neoplasms	drug-disease
+db00624	dis:hydronephrosis	drug-disease
+db00921	dis:bile duct diseases	drug-disease
+db01235	dis:catalepsy	drug-disease
+db00445	dis:uterine cervical neoplasms	drug-disease
+db00734	dis:galactorrhea	drug-disease
+db01645	dis:ovarian neoplasms	drug-disease
+db00861	dis:kidney diseases	drug-disease
+db00542	dis:stevens-johnson syndrome	drug-disease
+db00477	dis:substance-related disorders	drug-disease
+db01235	dis:brain injuries	drug-disease
+db00734	dis:sleep initiation and maintenance disorders	drug-disease
+db00500	dis:glomerulonephritis membranous	drug-disease
+db01174	dis:urination disorders	drug-disease
+db00987	dis:leukemia promyelocytic acute	drug-disease
+db00313	dis:gait disorders neurologic	drug-disease
+db00915	dis:hyponatremia	drug-disease
+db00344	dis:cataplexy	drug-disease
+db00795	dis:thyroid neoplasms	drug-disease
+db00860	dis:burkitt lymphoma	drug-disease
+db01115	dis:chemical and drug induced liver injury	drug-disease
+db01234	dis:spinal cord diseases	drug-disease
+db00317	dis:colorectal neoplasms	drug-disease
+db00683	dis:dizziness	drug-disease
+db00584	dis:abdominal pain	drug-disease
+db00661	dis:hyperprolactinemia	drug-disease
+db00333	dis:pulmonary edema	drug-disease
+db00977	dis:encephalomyelitis autoimmune experimental	drug-disease
+db00755	dis:peripheral nervous system diseases	drug-disease
+db00564	dis:skin diseases	drug-disease
+db00570	dis:autonomic nervous system diseases	drug-disease
+db00688	dis:arteriosclerosis	drug-disease
+db13919	dis:insulin resistance	drug-disease
+db01577	dis:fever	drug-disease
+db00373	dis:bronchial spasm	drug-disease
+db00541	dis:skin diseases	drug-disease
+db00860	dis:vasculitis	drug-disease
+db01183	dis:lethargy	drug-disease
+db01234	dis:intracranial hypertension	drug-disease
+db00668	dis:back pain	drug-disease
+db00997	dis:hearing disorders	drug-disease
+db01092	dis:brain diseases	drug-disease
+db01200	dis:nausea	drug-disease
+db00295	dis:epilepsies myoclonic	drug-disease
+db00656	dis:liver failure acute	drug-disease
+db00563	dis:headache	drug-disease
+db00514	dis:chemical and drug induced liver injury	drug-disease
+db00321	dis:learning disorders	drug-disease
+db00921	dis:necrosis	drug-disease
+db01118	dis:vasculitis leukocytoclastic cutaneous	drug-disease
+db00678	dis:bacterial infections	drug-disease
+db01045	dis:erythema nodosum	drug-disease
+db00973	dis:musculoskeletal diseases	drug-disease
+db00134	dis:inflammation	drug-disease
+db01212	dis:meningitis	drug-disease
+db00252	dis:cholestasis	drug-disease
+db00437	dis:non-alcoholic fatty liver disease	drug-disease
+db00472	dis:obesity	drug-disease
+db00907	dis:bradycardia	drug-disease
+db00734	dis:hyponatremia	drug-disease
+db00987	dis:intracranial hemorrhages	drug-disease
+db01142	dis:tachycardia	drug-disease
+db01050	dis:liver failure	drug-disease
+db00458	dis:pheochromocytoma	drug-disease
+db00343	dis:stroke	drug-disease
+db00908	dis:malaria	drug-disease
+db00683	dis:death sudden cardiac	drug-disease
+db00877	dis:postoperative complications	drug-disease
+db00446	dis:leukopenia	drug-disease
+db00810	dis:akathisia drug-induced	drug-disease
+db00477	dis:drug-related side effects and adverse reactions	drug-disease
+db00624	dis:non-alcoholic fatty liver disease	drug-disease
+db00917	dis:pain	drug-disease
+db00773	dis:anorexia	drug-disease
+db01035	dis:chest pain	drug-disease
+db00997	dis:hypokalemia	drug-disease
+db00819	dis:stevens-johnson syndrome	drug-disease
+db00313	dis:anemia	drug-disease
+db03128	dis:alzheimer disease	drug-disease
+db00533	dis:catatonia	drug-disease
+db01394	dis:drug overdose	drug-disease
+db03783	dis:kidney failure chronic	drug-disease
+db00541	dis:nervous system diseases	drug-disease
+db00178	dis:necrosis	drug-disease
+db00446	dis:epilepsy	drug-disease
+db00215	dis:long qt syndrome	drug-disease
+db00441	dis:glomerulonephritis membranous	drug-disease
+db00945	dis:acute coronary syndrome	drug-disease
+db00280	dis:pulmonary edema	drug-disease
+db01184	dis:gastroenteritis	drug-disease
+db00783	dis:skin diseases	drug-disease
+db00421	dis:bradycardia	drug-disease
+db00328	dis:gastritis	drug-disease
+db00472	dis:apnea	drug-disease
+db00788	dis:angioedema	drug-disease
+db01050	dis:vasculitis leukocytoclastic cutaneous	drug-disease
+db00184	dis:muscular atrophy	drug-disease
+db00281	dis:diplopia	drug-disease
+db00477	dis:epilepsy tonic-clonic	drug-disease
+db00313	dis:multiple organ failure	drug-disease
+db00829	dis:prenatal exposure delayed effects	drug-disease
+db00788	dis:hypoglycemia	drug-disease
+db01035	dis:atrial flutter	drug-disease
+db01009	dis:cystitis	drug-disease
+db00343	dis:acidosis	drug-disease
+db00358	dis:myoclonus	drug-disease
+db01193	dis:heart block	drug-disease
+db00773	dis:glioma	drug-disease
+db00472	dis:hypertension pulmonary	drug-disease
+db00175	dis:myocardial infarction	drug-disease
+db00734	dis:learning disorders	drug-disease
+db00501	dis:pain	drug-disease
+db00584	dis:acute kidney injury	drug-disease
+db01242	dis:tachycardia ventricular	drug-disease
+db00396	dis:liver cirrhosis experimental	drug-disease
+db00675	dis:dermatomyositis	drug-disease
+db00819	dis:acidosis	drug-disease
+db00363	dis:pain	drug-disease
+db00313	dis:liver diseases	drug-disease
+db00608	dis:drug-related side effects and adverse reactions	drug-disease
+db01241	dis:hyperlipidemias	drug-disease
+db00252	dis:vision disorders	drug-disease
+db00997	dis:endometrial neoplasms	drug-disease
+db00334	dis:stuttering	drug-disease
+db00502	dis:hypertension	drug-disease
+db00502	dis:headache	drug-disease
+db01234	dis:hypertriglyceridemia	drug-disease
+db00678	dis:acute kidney injury	drug-disease
+db00544	dis:liver neoplasms	drug-disease
+db00661	dis:cholestasis	drug-disease
+db00451	dis:drug-related side effects and adverse reactions	drug-disease
+db00575	dis:erectile dysfunction	drug-disease
+db00211	dis:hypertension	drug-disease
+db00661	dis:dysarthria	drug-disease
+db00321	dis:hemolysis	drug-disease
+db00199	dis:urinary incontinence	drug-disease
+db00694	dis:hypercholesterolemia	drug-disease
+db00363	dis:muscle rigidity	drug-disease
+db00695	dis:vomiting	drug-disease
+db01098	dis:renal insufficiency	drug-disease
+db00458	dis:cholestasis	drug-disease
+db00313	dis:movement disorders	drug-disease
+db00734	dis:urination disorders	drug-disease
+db00451	dis:hypokinesia	drug-disease
+db01224	dis:cholestasis	drug-disease
+db00694	dis:hemorrhage	drug-disease
+db01050	dis:hyperalgesia	drug-disease
+db01577	dis:gait disorders neurologic	drug-disease
+db00783	dis:weight loss	drug-disease
+db00907	dis:disorders of excessive somnolence	drug-disease
+db00829	dis:drug-related side effects and adverse reactions	drug-disease
+db01138	dis:nephritis interstitial	drug-disease
+db00363	dis:stevens-johnson syndrome	drug-disease
+db00694	dis:cardiomyopathies	drug-disease
+db00877	dis:vasculitis leukocytoclastic cutaneous	drug-disease
+db00661	dis:hyperkinesis	drug-disease
+db00907	dis:nervous system malformations	drug-disease
+db00203	dis:dyspepsia	drug-disease
+db00661	dis:cardiomegaly	drug-disease
+db01200	dis:gynecomastia	drug-disease
+db00586	dis:stevens-johnson syndrome	drug-disease
+db00201	dis:hyperalgesia	drug-disease
+db00661	dis:fever	drug-disease
+db00907	dis:heart arrest	drug-disease
+db00661	dis:cough	drug-disease
+db00759	dis:infant newborn diseases	drug-disease
+db01118	dis:cerebral infarction	drug-disease
+db01394	dis:multiple myeloma	drug-disease
+db01104	dis:headache	drug-disease
+db00182	dis:priapism	drug-disease
+db01577	dis:hyperkinesis	drug-disease
+db00563	dis:pancytopenia	drug-disease
+db00584	dis:arthralgia	drug-disease
+db00997	dis:stomatitis	drug-disease
+db00564	dis:urticaria	drug-disease
+db00907	dis:hypertension malignant	drug-disease
+db01393	dis:dyslipidemias	drug-disease
+db00863	dis:liver failure acute	drug-disease
+db00590	dis:hypotension	drug-disease
+db00255	dis:myocardial infarction	drug-disease
+db00829	dis:movement disorders	drug-disease
+db00470	dis:neural tube defects	drug-disease
+db00542	dis:hypertension renal	drug-disease
+db00328	dis:consciousness disorders	drug-disease
+db00203	dis:necrosis	drug-disease
+db00368	dis:tachycardia ventricular	drug-disease
+db00921	dis:peritonitis	drug-disease
+db00363	dis:drug overdose	drug-disease
+db00608	dis:hypoglycemia	drug-disease
+db01212	dis:substance-related disorders	drug-disease
+db01035	dis:drug hypersensitivity	drug-disease
+db00973	dis:rhabdomyolysis	drug-disease
+db01400	dis:hypotension	drug-disease
+db00907	dis:hypothermia	drug-disease
+db01136	dis:drug overdose	drug-disease
+db00175	dis:dermatomyositis	drug-disease
+db00997	dis:lymphoma b-cell	drug-disease
+db00371	dis:agranulocytosis	drug-disease
+db00541	dis:erythema	drug-disease
+db00201	dis:edema	drug-disease
+db00396	dis:seizures	drug-disease
+db01174	dis:poisoning	drug-disease
+db00227	dis:anorexia	drug-disease
+db00541	dis:skin neoplasms	drug-disease
+db00334	dis:dystonia	drug-disease
+db00863	dis:meningitis aseptic	drug-disease
+db00810	dis:nystagmus pathologic	drug-disease
+db00541	dis:thromboembolism	drug-disease
+db01151	dis:long qt syndrome	drug-disease
+db01165	dis:acute kidney injury	drug-disease
+db00252	dis:pain postoperative	drug-disease
+db01577	dis:vasculitis	drug-disease
+db00959	dis:heart arrest	drug-disease
+db00184	dis:purpura	drug-disease
+db00252	dis:intracranial hypertension	drug-disease
+db00281	dis:hyperalgesia	drug-disease
+db00264	dis:proteinuria	drug-disease
+db00907	dis:bone diseases	drug-disease
+db00921	dis:drug-related side effects and adverse reactions	drug-disease
+db00197	dis:reperfusion injury	drug-disease
+db00544	dis:glioma	drug-disease
+db01114	dis:disorders of excessive somnolence	drug-disease
+db00363	dis:seizures	drug-disease
+db00501	dis:apnea	drug-disease
+db00281	dis:blindness	drug-disease
+db01268	dis:weight loss	drug-disease
+db00934	dis:respiratory insufficiency	drug-disease
+db00317	dis:intracranial hemorrhages	drug-disease
+db00968	dis:cardiomyopathy hypertrophic	drug-disease
+db00668	dis:drug hypersensitivity	drug-disease
+db00741	dis:heart diseases	drug-disease
+db00252	dis:lymphoma non-hodgkin	drug-disease
+db00537	dis:hypertension	drug-disease
+db01229	dis:sarcoma	drug-disease
+db00997	dis:pulmonary edema	drug-disease
+db00502	dis:blepharoptosis	drug-disease
+db01235	dis:substance withdrawal syndrome	drug-disease
+db00812	dis:necrosis	drug-disease
+db00468	dis:bradycardia	drug-disease
+db01095	dis:bacterial infections	drug-disease
+db00635	dis:muscle cramp	drug-disease
+db00829	dis:heart diseases	drug-disease
+db01076	dis:vascular diseases	drug-disease
+db00500	dis:anemia hemolytic	drug-disease
+db01234	dis:testicular neoplasms	drug-disease
+db00819	dis:vomiting	drug-disease
+db00280	dis:heart failure	drug-disease
+db00518	dis:confusion	drug-disease
+db00255	dis:abnormalities drug-induced	drug-disease
+db00317	dis:cardiomegaly	drug-disease
+db00264	dis:cardiomyopathy dilated	drug-disease
+db01595	dis:hallucinations	drug-disease
+db00211	dis:paresthesia	drug-disease
+db00255	dis:brain injuries	drug-disease
+db00451	dis:arrhythmias cardiac	drug-disease
+db00831	dis:catalepsy	drug-disease
+db00783	dis:nervous system diseases	drug-disease
+db01595	dis:speech disorders	drug-disease
+db01177	dis:fever	drug-disease
+db00590	dis:sexual dysfunction physiological	drug-disease
+db00439	dis:cholestasis	drug-disease
+db00316	dis:vascular diseases	drug-disease
+db00501	dis:tachycardia	drug-disease
+db01212	dis:jaundice	drug-disease
+db00321	dis:hyperalgesia	drug-disease
+db00441	dis:bone marrow diseases	drug-disease
+db00945	dis:hearing loss	drug-disease
+db01045	dis:nervous system diseases	drug-disease
+db04216	dis:breast neoplasms	drug-disease
+db00363	dis:proteinuria	drug-disease
+db01393	dis:pain	drug-disease
+db00477	dis:neurobehavioral manifestations	drug-disease
+db01167	dis:ventricular premature complexes	drug-disease
+db00201	dis:heart septal defects ventricular	drug-disease
+db00363	dis:vomiting	drug-disease
+db00215	dis:hyperhidrosis	drug-disease
+db00482	dis:kidney diseases	drug-disease
+db01045	dis:diabetes insipidus nephrogenic	drug-disease
+db00921	dis:postoperative nausea and vomiting	drug-disease
+db00199	dis:cholestasis	drug-disease
+db00428	dis:demyelinating diseases	drug-disease
+db01115	dis:cardiomegaly	drug-disease
+db00694	dis:leukemia myeloid acute	drug-disease
+db01118	dis:heart diseases	drug-disease
+db01026	dis:paralysis	drug-disease
+db00317	dis:thrombocytopenia	drug-disease
+db00281	dis:shock cardiogenic	drug-disease
+db00788	dis:nephritis	drug-disease
+db01118	dis:bradycardia	drug-disease
+db00712	dis:hypertension portal	drug-disease
+db00715	dis:jaundice	drug-disease
+db01577	dis:vomiting	drug-disease
+db01075	dis:basal ganglia diseases	drug-disease
+db01050	dis:bile duct diseases	drug-disease
+db00328	dis:liver neoplasms	drug-disease
+db00412	dis:hyperplasia	drug-disease
+db00882	dis:photophobia	drug-disease
+db00252	dis:paresis	drug-disease
+db00863	dis:color vision defects	drug-disease
+db00641	dis:neoplasm metastasis	drug-disease
+db00502	dis:dyskinesia drug-induced	drug-disease
+db00877	dis:polyneuropathies	drug-disease
+db01037	dis:parkinsonian disorders	drug-disease
+db00907	dis:tachycardia supraventricular	drug-disease
+db01212	dis:sepsis	drug-disease
+db01023	dis:flushing	drug-disease
+db00860	dis:arthritis rheumatoid	drug-disease
+db00755	dis:prenatal exposure delayed effects	drug-disease
+db00605	dis:diabetic neuropathies	drug-disease
+db00563	dis:speech disorders	drug-disease
+db00586	dis:anorexia	drug-disease
+db00812	dis:renal insufficiency	drug-disease
+db00281	dis:spasm	drug-disease
+db00987	dis:paresthesia	drug-disease
+db00313	dis:muscle cramp	drug-disease
+db00875	dis:dystonia	drug-disease
+db00158	dis:hematologic diseases	drug-disease
+db00683	dis:vomiting	drug-disease
+db00661	dis:kidney diseases	drug-disease
+db01026	dis:cleft palate	drug-disease
+db00502	dis:tic disorders	drug-disease
+db00694	dis:nervous system diseases	drug-disease
+db00477	dis:cardiomyopathies	drug-disease
+db00564	dis:syncope	drug-disease
+db00280	dis:arrhythmias cardiac	drug-disease
+db00672	dis:vomiting	drug-disease
+db00441	dis:thrombocytopenia	drug-disease
+db00987	dis:deglutition disorders	drug-disease
+db00571	dis:ataxia	drug-disease
+db00502	dis:torticollis	drug-disease
+db00445	dis:liver cirrhosis	drug-disease
+db01075	dis:hypoglycemia	drug-disease
+db00860	dis:lethargy	drug-disease
+db01136	dis:myocarditis	drug-disease
+db00254	dis:diarrhea	drug-disease
+db00641	dis:urinary bladder diseases	drug-disease
+db00544	dis:cleft palate	drug-disease
+db01118	dis:autoimmune diseases	drug-disease
+db00627	dis:hypotension	drug-disease
+db00343	dis:ocular hypertension	drug-disease
+db00382	dis:parkinson disease secondary	drug-disease
+db00619	dis:breast neoplasms	drug-disease
+db00788	dis:atrophy	drug-disease
+db00945	dis:stomach ulcer	drug-disease
+db01183	dis:substance withdrawal syndrome	drug-disease
+db00321	dis:heart failure	drug-disease
+db00987	dis:brain edema	drug-disease
+db00495	dis:chest pain	drug-disease
+db01115	dis:hypertension renal	drug-disease
+db00277	dis:tachycardia sinus	drug-disease
+db00829	dis:muscle hypertonia	drug-disease
+db00472	dis:xerostomia	drug-disease
+db00860	dis:neutropenia	drug-disease
+db00457	dis:hypertension renal	drug-disease
+db01035	dis:muscle weakness	drug-disease
+db01235	dis:dyskinesia drug-induced	drug-disease
+db00458	dis:galactorrhea	drug-disease
+db00533	dis:intracranial hypertension	drug-disease
+db00755	dis:atrioventricular block	drug-disease
+db00813	dis:hypoxia	drug-disease
+db00715	dis:inappropriate adh syndrome	drug-disease
+db01337	dis:heart arrest	drug-disease
+db01400	dis:hyperalgesia	drug-disease
+db00773	dis:weight loss	drug-disease
+db00533	dis:arthritis experimental	drug-disease
+db01586	dis:carcinoma hepatocellular	drug-disease
+db00544	dis:bradycardia	drug-disease
+db01167	dis:muscle weakness	drug-disease
+db00863	dis:reflex abnormal	drug-disease
+db00514	dis:hallucinations	drug-disease
+db00281	dis:paralysis	drug-disease
+db01183	dis:drug overdose	drug-disease
+db00158	dis:neoplasms experimental	drug-disease
+db00997	dis:postoperative complications	drug-disease
+db00571	dis:chemical and drug induced liver injury	drug-disease
+db00860	dis:ventricular dysfunction left	drug-disease
+db01115	dis:pulmonary disease chronic obstructive	drug-disease
+db00280	dis:sinoatrial block	drug-disease
+db04216	dis:lethargy	drug-disease
+db00398	dis:stevens-johnson syndrome	drug-disease
+db00206	dis:stomach ulcer	drug-disease
+db00122	dis:liver cirrhosis	drug-disease
+db00575	dis:hypertension	drug-disease
+db00635	dis:nervous system diseases	drug-disease
+db00997	dis:glioblastoma	drug-disease
+db00264	dis:ventricular dysfunction left	drug-disease
+db00608	dis:acute kidney injury	drug-disease
+db00197	dis:heart diseases	drug-disease
+db00358	dis:hepatitis	drug-disease
+db00570	dis:proteinuria	drug-disease
+db00197	dis:liver failure	drug-disease
+db00554	dis:gastritis	drug-disease
+db01045	dis:nephrotic syndrome	drug-disease
+db00860	dis:muscle weakness	drug-disease
+db00371	dis:substance-related disorders	drug-disease
+db00945	dis:stomach diseases	drug-disease
+db00468	dis:tinnitus	drug-disease
+db00668	dis:heart arrest	drug-disease
+db01234	dis:glucose intolerance	drug-disease
+db00934	dis:gait ataxia	drug-disease
+db00586	dis:pain	drug-disease
+db01211	dis:muscle weakness	drug-disease
+db00255	dis:mammary neoplasms animal	drug-disease
+db00451	dis:necrosis	drug-disease
+db00201	dis:cardiomyopathies	drug-disease
+db00715	dis:arrhythmias cardiac	drug-disease
+db00519	dis:hypertension	drug-disease
+db00678	dis:reperfusion injury	drug-disease
+db01050	dis:conjunctivitis	drug-disease
+db00749	dis:vision disorders	drug-disease
+db00564	dis:lymphoma	drug-disease
+db00812	dis:phlebitis	drug-disease
+db01115	dis:olfaction disorders	drug-disease
+db00959	dis:cataract	drug-disease
+db00571	dis:atherosclerosis	drug-disease
+db00571	dis:sinoatrial block	drug-disease
+db00773	dis:drug-related side effects and adverse reactions	drug-disease
+db00321	dis:dyspnea	drug-disease
+db00586	dis:cholestasis	drug-disease
+db00316	dis:confusion	drug-disease
+db00987	dis:nephritis interstitial	drug-disease
